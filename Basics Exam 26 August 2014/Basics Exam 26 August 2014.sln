@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Tic-Tac-Toe Power", "01. Tic-Tac-Toe Power\01. Tic-Tac-Toe Power.csproj", "{CFBB35C9-0915-44BA-B757-3297CC9A0CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Jumping Sums", "02. Jumping Sums\02. Jumping Sums.csproj", "{9987F540-4463-43B9-9E56-217E2B755ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Star", "03.Star\03.Star.csproj", "{58C0A9D1-F90C-41E0-B7DA-619C3821750F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBB35C9-0915-44BA-B757-3297CC9A0CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBB35C9-0915-44BA-B757-3297CC9A0CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBB35C9-0915-44BA-B757-3297CC9A0CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBB35C9-0915-44BA-B757-3297CC9A0CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9987F540-4463-43B9-9E56-217E2B755ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9987F540-4463-43B9-9E56-217E2B755ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9987F540-4463-43B9-9E56-217E2B755ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9987F540-4463-43B9-9E56-217E2B755ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C0A9D1-F90C-41E0-B7DA-619C3821750F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C0A9D1-F90C-41E0-B7DA-619C3821750F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C0A9D1-F90C-41E0-B7DA-619C3821750F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C0A9D1-F90C-41E0-B7DA-619C3821750F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
