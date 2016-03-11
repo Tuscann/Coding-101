@@ -1,0 +1,6 @@
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam-8-November 2015\02.Sudoku Results\bin\Debug\02.Sudoku Results.exe.config
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam-8-November 2015\02.Sudoku Results\bin\Debug\02.Sudoku Results.exe
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam-8-November 2015\02.Sudoku Results\bin\Debug\02.Sudoku Results.pdb
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam-8-November 2015\02.Sudoku Results\obj\Debug\02.Sudoku Results.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam-8-November 2015\02.Sudoku Results\obj\Debug\02.Sudoku Results.exe
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam-8-November 2015\02.Sudoku Results\obj\Debug\02.Sudoku Results.pdb
