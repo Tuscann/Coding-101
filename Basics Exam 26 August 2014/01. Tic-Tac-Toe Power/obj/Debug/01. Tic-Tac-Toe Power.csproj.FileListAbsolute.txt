@@ -1,0 +1,6 @@
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\01. Tic-Tac-Toe Power\bin\Debug\_01.Tic_Tac_Toe_Power.exe.config
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\01. Tic-Tac-Toe Power\bin\Debug\_01.Tic_Tac_Toe_Power.exe
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\01. Tic-Tac-Toe Power\bin\Debug\_01.Tic_Tac_Toe_Power.pdb
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\01. Tic-Tac-Toe Power\obj\Debug\01. Tic-Tac-Toe Power.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\01. Tic-Tac-Toe Power\obj\Debug\_01.Tic_Tac_Toe_Power.exe
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\01. Tic-Tac-Toe Power\obj\Debug\_01.Tic_Tac_Toe_Power.pdb
