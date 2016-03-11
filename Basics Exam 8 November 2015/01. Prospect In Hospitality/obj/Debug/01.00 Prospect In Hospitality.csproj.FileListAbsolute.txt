@@ -1,0 +1,3 @@
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam-8-November 2015\01. Prospect In Hospitality\bin\Debug\_01.Prospect_In_Hospitality.exe.config
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam-8-November 2015\01. Prospect In Hospitality\obj\Debug\_01.Prospect_In_Hospitality.exe
+C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam-8-November 2015\01. Prospect In Hospitality\obj\Debug\_01.Prospect_In_Hospitality.pdb
