@@ -1,0 +1,64 @@
+﻿using System;
+using System.Security.AccessControl;
+
+class Program
+{
+    static void Main()
+    {
+
+        var n = int.Parse(Console.ReadLine());
+
+        var stars = 1;
+        if (n%2 == 0) { stars++;}
+        for (int i = 0; i < (n+1)/2; i++)
+        {
+            var padding = (n - stars)/2;
+            Console.Write(new string('-',padding));
+            Console.Write(new string('*', stars));
+            Console.WriteLine(new string('-', padding));
+            stars = stars + 2;
+        }
+        for (int i = 0; i < n / 2; i++)
+            {
+                Console.Write("|");
+                Console.Write(new string('*', n - 2));
+                Console.WriteLine("|");
+            }
+
+        
+        //else if (n % 2 == 1)
+        //{
+        //    var left = n / 2;
+        //    var right = left;
+        //    for (int row = 0; row < (n + 1) / 2; row++)
+        //    {
+        //        for (int col = 0; col < n; col++)
+        //        {
+        //            if (col >= left && col <= right)
+        //            {
+        //                Console.Write("*");
+        //            }
+        //            else
+        //            {
+        //                Console.Write('-');
+        //            }
+
+        //        }
+        //        left--;
+        //        right--;
+        //        Console.WriteLine();
+        //    }
+        //    Console.WriteLine(new string('*', n));
+        //    for (int i = 0; i < (n - 1) / 2; i++)
+        //    {
+        //        Console.Write("|");
+        //        Console.Write(new string('*', n - 2));
+        //        Console.WriteLine("|");
+        //    }
+        //}
+
+
+
+    }
+}
+
