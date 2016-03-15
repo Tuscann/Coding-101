@@ -1,0 +1,6 @@
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics December 2014 Lab\02.02. Fun with Matrices\bin\Debug\_02._02.Fun_with_Matrices.exe.config
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics December 2014 Lab\02.02. Fun with Matrices\bin\Debug\_02._02.Fun_with_Matrices.exe
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics December 2014 Lab\02.02. Fun with Matrices\bin\Debug\_02._02.Fun_with_Matrices.pdb
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics December 2014 Lab\02.02. Fun with Matrices\obj\Debug\02. Fun with Matrices.csprojResolveAssemblyReference.cache
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics December 2014 Lab\02.02. Fun with Matrices\obj\Debug\_02._02.Fun_with_Matrices.exe
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics December 2014 Lab\02.02. Fun with Matrices\obj\Debug\_02._02.Fun_with_Matrices.pdb
