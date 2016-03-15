@@ -1,0 +1,3 @@
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics December 2014 Lab\Basics December 2014 Lab\bin\Debug\Basics December 2014 Lab.exe.config
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics December 2014 Lab\Basics December 2014 Lab\obj\Debug\Basics December 2014 Lab.exe
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics December 2014 Lab\Basics December 2014 Lab\obj\Debug\Basics December 2014 Lab.pdb
