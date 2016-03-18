@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 /*
     You will be given coordinates (x,y) of your headquarters and the distance to the borders.
     On the next line you will receive the number of the fighters that are approaching your country.

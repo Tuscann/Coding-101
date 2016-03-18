@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5AFEE0D1-EC93-4AF8-8617-3EB0DFE09BB8}</ProjectGuid>
+    <ProjectGuid>{BB49A499-929A-4F6C-B0A3-40A031C1B69F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_03._01_Ace_of_Diamonds</RootNamespace>
-    <AssemblyName>03.01 Ace of Diamonds</AssemblyName>
+    <RootNamespace>_05.Bit_Builder</RootNamespace>
+    <AssemblyName>05.Bit Builder</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="05.Bit Builder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

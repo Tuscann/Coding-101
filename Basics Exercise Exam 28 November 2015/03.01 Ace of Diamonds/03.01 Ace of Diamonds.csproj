@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C49CB66A-C555-48D5-B5DB-815E737CB15C}</ProjectGuid>
+    <ProjectGuid>{5AFEE0D1-EC93-4AF8-8617-3EB0DFE09BB8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_02.Numerology</RootNamespace>
-    <AssemblyName>_02.Numerology</AssemblyName>
+    <RootNamespace>_03._01_Ace_of_Diamonds</RootNamespace>
+    <AssemblyName>03.01 Ace of Diamonds</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="03.01 Ace of Diamonds.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
