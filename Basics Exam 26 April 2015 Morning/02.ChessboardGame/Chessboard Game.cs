@@ -1,31 +1,72 @@
 ﻿using System;
-
 class Program
 {
     static void Main()
     {
-        var n = int.Parse(Console.ReadLine());
-        string strings = Console.ReadLine();
+        var boardSize = int.Parse(Console.ReadLine());
+        string inputstrings = Console.ReadLine();
 
         var whiteTeamScore = 0;
-        var blackTeamScore =0 ;
-        //var pointBlackTeam =;
-        //var pointWhiteTeamm =;
+        var blackTeamScore = 0;
 
-        char d = Convert.ToChar('d');
-        Console.WriteLine((char)'d');
+        int cellsCount = boardSize * boardSize;
 
-        //for (int i = 'a'; i < 'z'; i++)
-        //{
-        //    Console.WriteLine(i);
-        //}cc
-
-
-
-
-        if (whiteTeamScore == blackTeamScore)
+        if (cellsCount > inputstrings.Length)
         {
-            Console.WriteLine("Equal result:{}", pointBlackTeam);
+            string additionalCharacters = new string(' ', cellsCount - inputstrings.Length);
+            inputstrings = inputstrings + additionalCharacters;
+        }
+
+
+        for (int letter = 0; letter < cellsCount; letter++)
+        {
+            char currentChar = inputstrings[letter];
+
+            if ((currentChar >= 'a' && currentChar <= 'z') || (currentChar >= 'A' && currentChar <= 'Z') || (currentChar >= '0' && currentChar <= '9'))
+            {
+                if (letter % 2 == 0)
+                {
+                    if (currentChar >= 'A' && currentChar <= 'Z')
+                    {
+                        whiteTeamScore = whiteTeamScore + currentChar;
+                    }
+                    else
+                    {
+                        blackTeamScore = blackTeamScore + currentChar;
+                    }
+
+                }
+                else
+                {
+                    if (currentChar >= 'A' && currentChar <= 'Z')
+                    {
+
+                        blackTeamScore = blackTeamScore + currentChar;
+                    }
+                    else
+                    {
+                        whiteTeamScore = whiteTeamScore + currentChar;
+                    }
+
+                }
+            }
+
+        }
+        if (blackTeamScore < whiteTeamScore)
+        {
+            Console.WriteLine("The winner is: white team");
+            Console.WriteLine(whiteTeamScore - blackTeamScore);
+        }
+        else if (blackTeamScore > whiteTeamScore)
+        {
+            Console.WriteLine("The winner is: black team");
+            Console.WriteLine(blackTeamScore - whiteTeamScore);
+        }
+
+
+        else if (whiteTeamScore == blackTeamScore)
+        {
+            Console.WriteLine("Equal result: {0}", blackTeamScore);
         }
     }
 }

@@ -10,11 +10,11 @@ public class KingOfThieves
         int outerDashes = size / 2;
         int innerSymbols = 1;
 
-        for (int i = 0; i < size; i++)
+        for (int row = 0; row < size; row++)
         {
             Console.WriteLine("{0}{1}{0}", new string('-', outerDashes), new string(gemSymbol, innerSymbols));
 
-            if (i < size / 2) { outerDashes--; innerSymbols += 2; }
+            if (row < size / 2) { outerDashes--; innerSymbols += 2; }
             else { outerDashes++; innerSymbols -= 2; }
         }
     }
