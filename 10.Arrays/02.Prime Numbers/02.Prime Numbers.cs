@@ -19,7 +19,7 @@ class Program
                 Fillprimes(primes, p);
             }
         }
-        Console.WriteLine(primes);
+        Console.WriteLine();
 
         
 

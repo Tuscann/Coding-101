@@ -1,5 +1,4 @@
 ﻿using System;
-
 public class KingOfThieves
 {
     public static void Main()
