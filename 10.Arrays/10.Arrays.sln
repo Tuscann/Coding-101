@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Day of Week", "01.Day of Week\01.Day of Week.csproj", "{AB6D2822-B945-4A09-9E5F-A72AC79DF900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Prime Numbers", "02.Prime Numbers\02.Prime Numbers.csproj", "{51A1BD21-E324-4326-8AD1-AE2DAF9CB239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6D2822-B945-4A09-9E5F-A72AC79DF900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6D2822-B945-4A09-9E5F-A72AC79DF900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6D2822-B945-4A09-9E5F-A72AC79DF900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6D2822-B945-4A09-9E5F-A72AC79DF900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A1BD21-E324-4326-8AD1-AE2DAF9CB239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A1BD21-E324-4326-8AD1-AE2DAF9CB239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A1BD21-E324-4326-8AD1-AE2DAF9CB239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A1BD21-E324-4326-8AD1-AE2DAF9CB239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
