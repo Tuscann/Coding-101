@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Simple Loops", "02. Sim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Draw Figure", "03. Draw Figure\03. Draw Figure.csproj", "{4DB17E9F-4078-412B-A2A2-8536C140D068}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Nested Loops", "04. Nested Loops\04. Nested Loops.csproj", "{38A70302-D6DD-4991-B157-A55677119D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bitwise Operators", "05. Bitwise Operators\05. Bitwise Operators.csproj", "{3EBDD44A-6DB2-4627-B6E8-8A87674FE193}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4DB17E9F-4078-412B-A2A2-8536C140D068}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DB17E9F-4078-412B-A2A2-8536C140D068}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DB17E9F-4078-412B-A2A2-8536C140D068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38A70302-D6DD-4991-B157-A55677119D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A70302-D6DD-4991-B157-A55677119D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A70302-D6DD-4991-B157-A55677119D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A70302-D6DD-4991-B157-A55677119D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBDD44A-6DB2-4627-B6E8-8A87674FE193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBDD44A-6DB2-4627-B6E8-8A87674FE193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBDD44A-6DB2-4627-B6E8-8A87674FE193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBDD44A-6DB2-4627-B6E8-8A87674FE193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
