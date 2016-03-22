@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Tables", "01. Tables\01. Tables.csproj", "{9B4513B7-4E4E-44D2-B1B9-17AE80F41C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Book Orders", "02. Book Orders\02. Book Orders.csproj", "{2C6C7E83-A43E-4D78-99F4-ED862964C8F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4513B7-4E4E-44D2-B1B9-17AE80F41C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4513B7-4E4E-44D2-B1B9-17AE80F41C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4513B7-4E4E-44D2-B1B9-17AE80F41C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4513B7-4E4E-44D2-B1B9-17AE80F41C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6C7E83-A43E-4D78-99F4-ED862964C8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6C7E83-A43E-4D78-99F4-ED862964C8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6C7E83-A43E-4D78-99F4-ED862964C8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6C7E83-A43E-4D78-99F4-ED862964C8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
