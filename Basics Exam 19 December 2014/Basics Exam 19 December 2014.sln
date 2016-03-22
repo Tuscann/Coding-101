@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00Headphones", "03.Headp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Headphones", "03.01 Headphones\03.01 Headphones.csproj", "{8278705A-ABD1-4D84-AA86-65456B50D5BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Spiral Matrix", "04. Spiral Matrix\04. Spiral Matrix.csproj", "{6D70A876-9A16-40BA-8AD6-FE3277B49F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Paint Ball", "05. Paint Ball\05. Paint Ball.csproj", "{657DE57C-A1A7-4FDD-8267-C39E05EDBAE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{8278705A-ABD1-4D84-AA86-65456B50D5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8278705A-ABD1-4D84-AA86-65456B50D5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8278705A-ABD1-4D84-AA86-65456B50D5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D70A876-9A16-40BA-8AD6-FE3277B49F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D70A876-9A16-40BA-8AD6-FE3277B49F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D70A876-9A16-40BA-8AD6-FE3277B49F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D70A876-9A16-40BA-8AD6-FE3277B49F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657DE57C-A1A7-4FDD-8267-C39E05EDBAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657DE57C-A1A7-4FDD-8267-C39E05EDBAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657DE57C-A1A7-4FDD-8267-C39E05EDBAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657DE57C-A1A7-4FDD-8267-C39E05EDBAE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
