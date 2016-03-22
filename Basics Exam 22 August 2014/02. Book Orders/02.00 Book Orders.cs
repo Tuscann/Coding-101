@@ -39,21 +39,9 @@ namespace _02.Book_Orders
 
                 double finalPrice = price*allBooks - ((allBooks * price) * discount);
                 totalPrice = totalPrice + finalPrice;
-
-
-                Console.WriteLine(totalBooks);
-                Console.WriteLine("{0:f2}", totalPrice);
-
             }
-
-
-
-
-
-
-
-
-
+            Console.WriteLine(totalBooks);
+            Console.WriteLine("{0:f2}", totalPrice);
         }
     }
 }

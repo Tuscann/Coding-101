@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2C6C7E83-A43E-4D78-99F4-ED862964C8F8}</ProjectGuid>
+    <ProjectGuid>{8900D31B-0020-4962-BED6-39E89CCB94DD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_02.Book_Orders</RootNamespace>
-    <AssemblyName>_02.Book_Orders</AssemblyName>
+    <RootNamespace>_02._01_Book_Order</RootNamespace>
+    <AssemblyName>_02._01_Book_Order</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
