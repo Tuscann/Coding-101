@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C0E069A5-7A13-4973-92E7-8CAF27EC8037}</ProjectGuid>
+    <ProjectGuid>{A6749ED8-834D-4529-A41B-D046FE6F0A6F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_04.Weird_Combinations</RootNamespace>
-    <AssemblyName>_04.Weird_Combinations</AssemblyName>
+    <RootNamespace>_04.Perfect_Girlfriend</RootNamespace>
+    <AssemblyName>_04.Perfect_Girlfriend</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="04. Weird Combinations.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
