@@ -6,6 +6,7 @@ class Program
         int n = int.Parse(Console.ReadLine());
 
         bool[] primes = new bool[n + 1];
+
         for (int i = 0; i < n; i++)
         {
             primes[i] = true;
@@ -14,18 +15,10 @@ class Program
         
         for (int p = 2; p < n; p++)
         {
-            if (primes[p])
-            {
-                Fillprimes(primes, p);
-            }
+            if (primes[p]){Fillprimes(primes, p);}
         }
         Console.WriteLine();
-
         
-
-		
-		
-
     }
     static void Fillprimes(bool[] primes, int step)
     {
