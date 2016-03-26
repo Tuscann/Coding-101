@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.House", "03.House\03.Hou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Magic dates", "04.Magic dates\04.Magic dates.csproj", "{948C4E15-E82D-41DA-A105-93097897EAE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Bits Killer", "05.Bits Killer\05.Bits Killer.csproj", "{AD453CB3-2021-41C4-A35F-F4055FD15A1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{948C4E15-E82D-41DA-A105-93097897EAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{948C4E15-E82D-41DA-A105-93097897EAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{948C4E15-E82D-41DA-A105-93097897EAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD453CB3-2021-41C4-A35F-F4055FD15A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD453CB3-2021-41C4-A35F-F4055FD15A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD453CB3-2021-41C4-A35F-F4055FD15A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD453CB3-2021-41C4-A35F-F4055FD15A1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

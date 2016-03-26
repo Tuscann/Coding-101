@@ -27,11 +27,6 @@ class Program
         {
             Console.WriteLine("No, maxdiff=" + maxdiff);
         }
-
-
-
-
-
     }
 }
 

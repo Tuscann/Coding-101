@@ -3,7 +3,6 @@ class Program
 {
     static void Main()
     {
-
         int startYear = int.Parse(Console.ReadLine());
         int endYear = int.Parse(Console.ReadLine());
         int magicWeight = int.Parse(Console.ReadLine());
@@ -31,21 +30,17 @@ class Program
                     weight = weight + (digits[first] * digits[second]);
                 }
             }
-            Console.WriteLine("{0:d2}-{1:d2}-{2:d2} weight={3}", d.Day, d.Month, d.Year, weight);
+            //Console.WriteLine("{0:d2}-{1:d2}-{2:d2} weight={3}", d.Day, d.Month, d.Year, weight);
             if (weight == magicWeight)
             {
                 Console.WriteLine("{0:d2}-{1:d2}-{2:d2}", d.Day, d.Month, d.Year);
                 count++;
             }
         }
-
-        //decimal d = 1 * 7 + 1 * 0 + 1 * 3 + 1 * 2 + 1 * 0 + 1 * 0 + 1 * 7 + 7 * 0 + 7 * 3 + 7 * 2 + 7 * 0 + 7 * 0 + 7 * 7 + 0 * 3 + 0 * 2 + 0 * 0 + 0 * 0 + 0 * 7 + 3 * 2 + 3 * 0 + 3 * 0 + 3 * 7 + 2 * 0 + 2 * 0 + 2 * 7 + 0 * 0 + 0 * 7 + 0 * 7 ;
         if (count == 0)
         {
             Console.WriteLine("No");
         }
-
-
     }
 }
 

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{948C4E15-E82D-41DA-A105-93097897EAE9}</ProjectGuid>
+    <ProjectGuid>{AD453CB3-2021-41C4-A35F-F4055FD15A1D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_04.Magic_dates</RootNamespace>
-    <AssemblyName>04.Magic dates</AssemblyName>
+    <RootNamespace>_05.Bits_Killer</RootNamespace>
+    <AssemblyName>05.Bits Killer</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="04.Magic dates.cs" />
+    <Compile Include="05.Bits Killer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
