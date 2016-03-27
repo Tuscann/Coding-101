@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A02C5344-CF02-46CC-8F0D-5ECFDB7FDC48}</ProjectGuid>
+    <ProjectGuid>{0488E5B0-B35A-467C-8791-48DCA497F67C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_02.Detective_Boev</RootNamespace>
-    <AssemblyName>_02.Detective_Boev</AssemblyName>
+    <RootNamespace>_01.Зеленчукова_борса</RootNamespace>
+    <AssemblyName>01.Зеленчукова борса</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="02. Detective Boev.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

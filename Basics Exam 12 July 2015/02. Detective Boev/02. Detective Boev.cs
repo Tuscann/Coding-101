@@ -1,15 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Detective_Boev
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+
+        string secretWord = Console.ReadLine();
+        string encryptedMessage = Console.ReadLine();
+
+
+
+
+
     }
 }
+

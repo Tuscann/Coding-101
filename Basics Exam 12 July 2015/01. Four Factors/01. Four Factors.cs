@@ -18,7 +18,7 @@ class Program
         decimal ORBB = ORB / (ORB + OppORB);
         decimal FTT = FT / FGA;
 
-        Console.WriteLine("eFG% {0:f3}\nTOV% {1:f3}\nORB%{2:f3}\nFT%{3:f3}", EFG, TOVV, ORBB, FTT);
+        Console.WriteLine("eFG% {0:f3}\nTOV% {1:f3}\nORB% {2:f3}\nFT% {3:f3}", EFG, TOVV, ORBB, FTT);
     }
 }
 
