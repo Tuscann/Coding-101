@@ -13,7 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Деление без о
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Пеперуда", "05. Пеперуда\05. Пеперуда.csproj", "{5C1357B5-E2AF-4ABF-883B-1A2E93B33209}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.using System;", "06.using System;\06.using System;.csproj", "{19662B30-E9AC-4472-9D49-C8C51E2A34BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Магически числа", "06.using System;\06.Магически числа.csproj", "{19662B30-E9AC-4472-9D49-C8C51E2A34BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00  Butterfly", "05.00\05.00  Butterfly.csproj", "{7629C90B-B6BE-4520-89D3-665594F72E52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{19662B30-E9AC-4472-9D49-C8C51E2A34BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19662B30-E9AC-4472-9D49-C8C51E2A34BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19662B30-E9AC-4472-9D49-C8C51E2A34BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7629C90B-B6BE-4520-89D3-665594F72E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7629C90B-B6BE-4520-89D3-665594F72E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7629C90B-B6BE-4520-89D3-665594F72E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7629C90B-B6BE-4520-89D3-665594F72E52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

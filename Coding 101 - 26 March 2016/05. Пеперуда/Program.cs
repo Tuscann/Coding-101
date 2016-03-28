@@ -55,5 +55,5 @@ class Program
             Console.WriteLine("{0}/ \\{0}", new string('*', (2 * n - 4) / 2));
         }
     }
-}c
+}
 
