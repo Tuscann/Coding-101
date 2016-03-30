@@ -3,13 +3,12 @@ class Program
 {
     static void Main()
     {
-
         int s = int.Parse(Console.ReadLine());
         int d = int.Parse(Console.ReadLine());
 
-        int watermelons = 0; int melons = 0;
+        int melons = 0;  int watermelons = 0; 
         
-        for (int i = 0; i < d + s; i++)
+        for (int i = s; i < d + s; i++)
         {
             switch (i%7)
             {
@@ -21,7 +20,6 @@ class Program
                 case 6:watermelons += 1;melons += 2;break;
                 default:break;
             }
-            
         }
         int diff = Math.Abs(melons - watermelons);
 
@@ -37,11 +35,6 @@ class Program
         {
             Console.WriteLine("Equal amount: {0}", melons);
         }
-
-
-
-       
-
     }
 }
 
