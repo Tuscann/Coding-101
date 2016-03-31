@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6F558E2F-4E76-4338-8E49-C40EF7C5940C}</ProjectGuid>
+    <ProjectGuid>{F281DF92-487A-4466-B37B-D2B5FF298E34}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_03.Last_K_Numbers_Sums</RootNamespace>
-    <AssemblyName>03.Last K Numbers Sums</AssemblyName>
+    <RootNamespace>_04.Sum__Min__Max__First__Last__Average</RootNamespace>
+    <AssemblyName>04.Sum, Min, Max, First, Last, Average</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="03.Last K Numbers Sums.cs" />
+    <Compile Include="Sum, Min, Max, First, Last, Average.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
