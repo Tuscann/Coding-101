@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7D7522C1-94DF-4ADE-932A-54A46390938F}</ProjectGuid>
+    <ProjectGuid>{B90A069D-E1FE-42CD-9D70-B6F708482AF4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_02._01.The_Football_Statician</RootNamespace>
-    <AssemblyName>02.01.The Football Statician</AssemblyName>
+    <RootNamespace>_03.Summertime</RootNamespace>
+    <AssemblyName>_03.Summertime</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="02.01.The Football Statician.cs" />
+    <Compile Include="03. Summertime.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

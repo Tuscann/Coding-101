@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Program
 {
     static void Main()
@@ -18,15 +17,13 @@ class Program
         else if (workoutsPerWeek >= 7 && workoutsPerWeek <= 9) { dci = 1.725; }
         else if (workoutsPerWeek > 9) { dci = 1.9; }
 
-
-        
         if (gender == 'm')
         {
             Console.WriteLine("{0:f0}", Math.Floor((66.5 + 13.75 * weight + 5.003 * height - 6.755 * age) * dci));
         }
         else if (gender == 'f')
         {
-             Console.WriteLine("{0:f0}", Math.Floor((655 + 9.563 * weight + 1.850 * height - 4.676 * age) * dci));
+            Console.WriteLine("{0:f0}", Math.Floor((655 + 9.563 * weight + 1.850 * height - 4.676 * age) * dci));
         }
     }
 }
