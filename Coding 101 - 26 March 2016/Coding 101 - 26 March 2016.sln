@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Пътешествие"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Деление без остатък", "04.Деление без остатък\04.Деление без остатък.csproj", "{FBFE82B4-F476-425F-A2E2-448D6C3ECBD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Пеперуда", "05. Пеперуда\05. Пеперуда.csproj", "{5C1357B5-E2AF-4ABF-883B-1A2E93B33209}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Пеперуда", "05. Пеперуда\05.01 Пеперуда.csproj", "{5C1357B5-E2AF-4ABF-883B-1A2E93B33209}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Магически числа", "06.using System;\06.Магически числа.csproj", "{19662B30-E9AC-4472-9D49-C8C51E2A34BB}"
 EndProject

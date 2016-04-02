@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7629C90B-B6BE-4520-89D3-665594F72E52}</ProjectGuid>
+    <ProjectGuid>{024C95D2-D38E-4BA4-96F4-804B926D3504}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_05._00</RootNamespace>
-    <AssemblyName>05.00</AssemblyName>
+    <RootNamespace>_03.Divide_by_7_and_5</RootNamespace>
+    <AssemblyName>03.Divide by 7 and 5</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="05.00  Butterfly.cs" />
+    <Compile Include="03.Divide by 7 and 5.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

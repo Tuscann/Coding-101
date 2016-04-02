@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7629C90B-B6BE-4520-89D3-665594F72E52}</ProjectGuid>
+    <ProjectGuid>{8D62874C-E1DB-4490-AEB1-F26CA02C4100}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_05._00</RootNamespace>
-    <AssemblyName>05.00</AssemblyName>
+    <RootNamespace>_06.Four_digits</RootNamespace>
+    <AssemblyName>06.Four digits</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="05.00  Butterfly.cs" />
+    <Compile Include="06.Four digits.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
