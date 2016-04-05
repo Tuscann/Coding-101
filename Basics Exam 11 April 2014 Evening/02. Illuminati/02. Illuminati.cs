@@ -1,14 +1,15 @@
 ﻿using System;
-class Program
+
+internal class Program
 {
     private static void Main()
     {
-        string input = Console.ReadLine().ToUpper();
+        var input = Console.ReadLine().ToUpper();
 
-        int numberOfVowels = 0;
-        int sumOfLetters = 0;
+        var numberOfVowels = 0;
+        var sumOfLetters = 0;
 
-        foreach (char letter in input)
+        foreach (var letter in input)
         {
             if (letter == 'A')
             {
@@ -39,4 +40,3 @@ class Program
         Console.WriteLine("{0}\n{1}", numberOfVowels, sumOfLetters);
     }
 }
-

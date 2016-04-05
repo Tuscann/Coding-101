@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 
-[assembly: AssemblyTitle("01. Cinema")]
+[assembly: AssemblyTitle("03.01 new House")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("01. Cinema")]
+[assembly: AssemblyProduct("03.01 new House")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -22,7 +22,7 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 
-[assembly: Guid("b14bf470-cae7-421b-9335-1d3d69e67800")]
+[assembly: Guid("7cbfc397-8e13-4b05-a8d9-559af05e02d6")]
 
 // Version information for an assembly consists of the following four values:
 //
