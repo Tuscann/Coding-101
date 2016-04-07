@@ -27,11 +27,11 @@ class Program
         //{
         //    Console.WriteLine(element);
         //}
-        for (long i = 0; i < arr.Length; i++)
-        {
-            Console.WriteLine(arr[i] + " ");
-        }
-        Console.WriteLine();
+        //for (long i = 0; i < arr.Length; i++)
+        //{
+        //    Console.WriteLine(arr[i] + " ");
+        //}
+        Console.WriteLine(string.Join(" ", arr));
     }
 }
 

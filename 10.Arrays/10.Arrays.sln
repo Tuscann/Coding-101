@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Day of Week", "01.Day of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Prime Numbers", "02.Prime Numbers\02.Prime Numbers.csproj", "{51A1BD21-E324-4326-8AD1-AE2DAF9CB239}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 ast K Numbers Sums", "03.Last K Numbers Sums\03.00 ast K Numbers Sums.csproj", "{6F558E2F-4E76-4338-8E49-C40EF7C5940C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Last K Numbers Sums", "03.Last K Numbers Sums\03.00 Last K Numbers Sums.csproj", "{6F558E2F-4E76-4338-8E49-C40EF7C5940C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Sum, Min, Max, First, Last, Average", "04.Sum, Min, Max, First, Last, Average\04.Sum, Min, Max, First, Last, Average.csproj", "{F281DF92-487A-4466-B37B-D2B5FF298E34}"
 EndProject
@@ -19,9 +19,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Reverse Array", "07.Reve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Sum Arrays", "08.Sum Arrays\08.Sum Arrays.csproj", "{62665ABA-696F-4AA6-94DB-3079FF604260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Middle Elements", "09.Middle Elements\09.Middle Elements.csproj", "{CD7559B9-3345-40EE-ADF7-78BA3A89399B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.00 Condense Array to Number", "09.Middle Elements\09.00 Condense Array to Number.csproj", "{CD7559B9-3345-40EE-ADF7-78BA3A89399B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Last K Numbers Sums", "03.01 Last K Numbers Sums\03.01 Last K Numbers Sums.csproj", "{E7FDC4B3-9227-4E5E-9A14-A10DD6A3A616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Middle Elementss", "09.Middle Elementss\09.Middle Elementss.csproj", "{64479025-186B-42CE-B8D6-C4203297624C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Largest Common End", "10.Largest Common End\10.Largest Common End.csproj", "{9773D5FC-47C5-4BE1-A65F-7C1E61C1364A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{E7FDC4B3-9227-4E5E-9A14-A10DD6A3A616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7FDC4B3-9227-4E5E-9A14-A10DD6A3A616}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7FDC4B3-9227-4E5E-9A14-A10DD6A3A616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64479025-186B-42CE-B8D6-C4203297624C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64479025-186B-42CE-B8D6-C4203297624C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64479025-186B-42CE-B8D6-C4203297624C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64479025-186B-42CE-B8D6-C4203297624C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9773D5FC-47C5-4BE1-A65F-7C1E61C1364A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9773D5FC-47C5-4BE1-A65F-7C1E61C1364A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9773D5FC-47C5-4BE1-A65F-7C1E61C1364A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9773D5FC-47C5-4BE1-A65F-7C1E61C1364A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

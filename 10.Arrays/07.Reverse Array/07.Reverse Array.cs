@@ -7,7 +7,10 @@ class Program
         //Console.WriteLine(string.Join(" ", Console.ReadLine().Split(' ').Select(int.Parse).Reverse().ToArray()));
 
         Console.WriteLine(string.Join(" ", Console.ReadLine().Split(' ').Reverse()));
+        
 
     }
 }
+
+
 

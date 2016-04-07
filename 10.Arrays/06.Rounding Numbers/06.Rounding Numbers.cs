@@ -12,6 +12,7 @@ class Program
         {
             roundedNums[i] = (int)Math.Round(nums[i], MidpointRounding.AwayFromZero);
             Console.WriteLine($"{nums[i]} -> {roundedNums[i]}");
+
         }
     }
 }

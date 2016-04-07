@@ -5,22 +5,29 @@ class Program
 {
     static void Main()
     {
-        int[] nums = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+        int[] arr = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
-        bool dasd = false;
+        bool isNo = true;
 
-        for (int i = 0; i < nums.Length; i++)
+        for (int i = 0; i < arr.Length; i++)
         {
-            for (int j = i + 1; j < nums.Length; j++)
+            int a = arr[i];
+
+            for (int j = i + 1; j < arr.Length; j++)
             {
-                int a = nums[i];
-                int b = nums[j];
+                int b = arr[j];
                 int sum = a + b;
-                if (nums.Contains(sum))
-                    Console.WriteLine($"{a} + {b} == {sum}");
+                if (arr.Contains(sum))
+                {
+                    Console.WriteLine("{0} + {1} == {2}", a, b, sum);
+                    isNo = false;
+                }
             }
         }
-
+        if (isNo)
+        {
+            Console.WriteLine("No");
+        }
 
     }
 }
