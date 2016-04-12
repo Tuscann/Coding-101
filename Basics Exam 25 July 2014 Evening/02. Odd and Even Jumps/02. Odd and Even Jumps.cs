@@ -7,8 +7,8 @@ class Program
         int oddJump = int.Parse(Console.ReadLine());
         int evenJump = int.Parse(Console.ReadLine());
 
-        int oddCounter = 0;    int evenCounter = 0;
-        ulong evenResult = 0;   ulong oddResult = 0;
+        int oddCounter = 0;  int evenCounter = 0;
+        ulong evenSum = 0;   ulong oddSum = 0;
        
         for (int i = 0; i < input.Length; i++)
         {
@@ -17,11 +17,11 @@ class Program
                 oddCounter++;
                 if (oddCounter % oddJump == 0)
                 {
-                    oddResult = oddResult * input[i];
+                    oddSum = oddSum * input[i];
                 }
                 else
                 {
-                    oddResult = oddResult + input[i];
+                    oddSum = oddSum + input[i];
                 }
             }
             if (i % 2 != 0)
@@ -29,17 +29,17 @@ class Program
                evenCounter++;
                 if (evenCounter % evenJump == 0)
                 {
-                    evenResult *= input[i];
+                    evenSum *= input[i];
                 }
                 else
                 {
-                    evenResult += input[i];
+                    evenSum += input[i];
                 }
             }
             
         }
-        Console.WriteLine("Odd: {0}", oddResult.ToString("X"));
-        Console.WriteLine("Even: {0}",evenResult.ToString("X"));
+        Console.WriteLine("Odd: {0}", oddSum.ToString("X"));
+        Console.WriteLine("Even: {0}",evenSum.ToString("X"));
     }
 }
 
