@@ -7,7 +7,7 @@ class Program
         int oddJump = int.Parse(Console.ReadLine());
         int evenJump = int.Parse(Console.ReadLine());
 
-        int oddCounter = 0;       int evenCounter = 0;
+        int oddCounter = 0;    int evenCounter = 0;
         ulong evenResult = 0;   ulong oddResult = 0;
        
         for (int i = 0; i < input.Length; i++)
