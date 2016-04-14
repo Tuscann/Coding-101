@@ -3,15 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Melons and Watermelons", "01. Melons and Watermelons\01. Melons and Watermelons.csproj", "{47225288-992A-4916-B61C-0BB7FF378337}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Melons and Watermelons", "01. Melons and Watermelons\01.01 Melons and Watermelons.csproj", "{47225288-992A-4916-B61C-0BB7FF378337}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Water", "01.00 Water\01.00 Water.csproj", "{9BDF9603-5ACB-494B-8610-062DE76A0680}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Melons and Watermelons", "01.00 Water\01.00 Melons and Watermelons.csproj", "{9BDF9603-5ACB-494B-8610-062DE76A0680}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Letters, Symbols, Numbers", "02. Letters, Symbols, Numbers\02. Letters, Symbols, Numbers.csproj", "{7E0422C7-7B5E-4289-AB26-FB712F135B11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Panda Scotland Flag", "03.Panda Scotland Flag\03.Panda Scotland Flag.csproj", "{C24CB484-015F-4298-9B97-1CD8311008C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Panda Scotland Flag", "03.Panda Scotland Flag\03.00 Panda Scotland Flag.csproj", "{C24CB484-015F-4298-9B97-1CD8311008C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MorseCode", "04.MorseCode\04.MorseCode.csproj", "{7E9AF123-C250-4C50-976F-0204451C66C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 MorseCode", "04.MorseCode\04.00 MorseCode.csproj", "{7E9AF123-C250-4C50-976F-0204451C66C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 MorseCode", "04.01 MorseCode\04.01 MorseCode.csproj", "{7307C4AC-7B3F-4D96-9EF7-22614BAA90A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bit Paths", "05. Bit Paths\05. Bit Paths.csproj", "{CCB9D546-E919-43C7-A626-2DB6470BEF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Panda Scotland Flag", "03.01 Panda Scotland Flag\03.01 Panda Scotland Flag.csproj", "{364E0592-945F-482B-A84A-407A2A08361D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.02 Panda Scotland Flag", "03.02 Panda Scotland Flag\03.02 Panda Scotland Flag.csproj", "{F7A9ADAB-04A4-418C-B94E-28655E8BB557}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{7E9AF123-C250-4C50-976F-0204451C66C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E9AF123-C250-4C50-976F-0204451C66C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E9AF123-C250-4C50-976F-0204451C66C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7307C4AC-7B3F-4D96-9EF7-22614BAA90A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7307C4AC-7B3F-4D96-9EF7-22614BAA90A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7307C4AC-7B3F-4D96-9EF7-22614BAA90A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7307C4AC-7B3F-4D96-9EF7-22614BAA90A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB9D546-E919-43C7-A626-2DB6470BEF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB9D546-E919-43C7-A626-2DB6470BEF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB9D546-E919-43C7-A626-2DB6470BEF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB9D546-E919-43C7-A626-2DB6470BEF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364E0592-945F-482B-A84A-407A2A08361D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364E0592-945F-482B-A84A-407A2A08361D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364E0592-945F-482B-A84A-407A2A08361D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364E0592-945F-482B-A84A-407A2A08361D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A9ADAB-04A4-418C-B94E-28655E8BB557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A9ADAB-04A4-418C-B94E-28655E8BB557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A9ADAB-04A4-418C-B94E-28655E8BB557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A9ADAB-04A4-418C-B94E-28655E8BB557}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

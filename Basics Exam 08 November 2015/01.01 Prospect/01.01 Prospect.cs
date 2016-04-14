@@ -1,11 +1,8 @@
 ﻿using System;
-
-
 class ProspectInHospitality
 {
     static void Main()
     {
-        // input
         uint builders = uint.Parse(Console.ReadLine()); // 0; // 20; // 
         uint receptionists = uint.Parse(Console.ReadLine()); //20; // 10; // 
         uint chambermaids = uint.Parse(Console.ReadLine()); // 50; // 8; //
@@ -23,8 +20,7 @@ class ProspectInHospitality
             other * 3010.98M +
             niki * exchangeRate +
             salary;
-
-        // output
+        
         Console.WriteLine("The amount is: {0:F2} lv.", result);
         if (result <= mBudget)
         {

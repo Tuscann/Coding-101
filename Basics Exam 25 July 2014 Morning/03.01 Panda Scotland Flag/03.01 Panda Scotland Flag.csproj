@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7E9AF123-C250-4C50-976F-0204451C66C7}</ProjectGuid>
+    <ProjectGuid>{364E0592-945F-482B-A84A-407A2A08361D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_04.MorseCode</RootNamespace>
-    <AssemblyName>04.MorseCode</AssemblyName>
+    <RootNamespace>_03._01_Panda_Scotland_Flag</RootNamespace>
+    <AssemblyName>03.01 Panda Scotland Flag</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="03.01 Panda Scotland Flag.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

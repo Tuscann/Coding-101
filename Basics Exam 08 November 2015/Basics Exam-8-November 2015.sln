@@ -7,13 +7,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Prospect In Hospitali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Prospect", "01.01 Prospect\01.01 Prospect.csproj", "{9135F068-7822-4A84-A2EF-A3309A6F3449}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Sudoku Resultss", "02.Sudoku Resultss\02.Sudoku Resultss.csproj", "{0AEEF19D-6154-449B-97DF-751620AC5D07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Sudoku Resultss", "02.Sudoku Resultss\02.00 Sudoku Resultss.csproj", "{0AEEF19D-6154-449B-97DF-751620AC5D07}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Local Elections", "03. Local Elections\03.00 Local Elections.csproj", "{C49960F9-4D91-4B7D-BE0C-F48E7AF7C970}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Local Elections", "03.01 Local Elections\03.01 Local Elections.csproj", "{CFD8A7C8-00C6-4650-9949-2D63CACDEB43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Perfect Girlfriend", "04. Perfect Girlfriend\04. Perfect Girlfriend.csproj", "{A6749ED8-834D-4529-A41B-D046FE6F0A6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Perfect Girlfriend", "04. Perfect Girlfriend\04.00 Perfect Girlfriend.csproj", "{A6749ED8-834D-4529-A41B-D046FE6F0A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.02 Local Elections", "03.02 Local Elections\03.02 Local Elections.csproj", "{3E4FAA7B-A6C6-4EA9-B8ED-F65BF482D101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 Perfect Girlfriend", "04.01 Perfect Girlfriend\04.01 Perfect Girlfriend.csproj", "{A6C16BE1-3EE3-4E34-9898-AD0147B166B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Shuffle Bits", "05. Shuffle Bits\05.00 Shuffle Bits.csproj", "{FE214161-4807-4040-ADAF-74608A334E29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{A6749ED8-834D-4529-A41B-D046FE6F0A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6749ED8-834D-4529-A41B-D046FE6F0A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6749ED8-834D-4529-A41B-D046FE6F0A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4FAA7B-A6C6-4EA9-B8ED-F65BF482D101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4FAA7B-A6C6-4EA9-B8ED-F65BF482D101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4FAA7B-A6C6-4EA9-B8ED-F65BF482D101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4FAA7B-A6C6-4EA9-B8ED-F65BF482D101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C16BE1-3EE3-4E34-9898-AD0147B166B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C16BE1-3EE3-4E34-9898-AD0147B166B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C16BE1-3EE3-4E34-9898-AD0147B166B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C16BE1-3EE3-4E34-9898-AD0147B166B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE214161-4807-4040-ADAF-74608A334E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE214161-4807-4040-ADAF-74608A334E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE214161-4807-4040-ADAF-74608A334E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE214161-4807-4040-ADAF-74608A334E29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
