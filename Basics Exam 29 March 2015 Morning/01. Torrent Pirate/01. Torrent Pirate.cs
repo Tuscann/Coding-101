@@ -17,7 +17,6 @@ class Program
         double numberMovieDownload = downloadData / MovieSize;
         double costAtCinema = numberMovieDownload * cinemaPrice;
 
-
         if (pricePerDowload > costAtCinema)
         {
             Console.WriteLine("cinema -> {0:f2}lv", costAtCinema);

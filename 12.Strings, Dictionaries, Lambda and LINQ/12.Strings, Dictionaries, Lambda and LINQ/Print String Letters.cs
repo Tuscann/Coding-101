@@ -1,15 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _12.Strings__Dictionaries__Lambda_and_LINQ
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        string str = Console.ReadLine().ToLower();
+        
+        for (int i = 0; i < str.Length; i++)
         {
+            char ch = str[i];
+            Console.WriteLine(
+              "str[{0}] -> '{1}'", i, ch);
         }
     }
 }
+
