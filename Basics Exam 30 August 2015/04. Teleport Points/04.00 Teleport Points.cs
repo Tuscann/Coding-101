@@ -18,19 +18,18 @@ class Program
 
         //Console.WriteLine("{0} {1} {2} {3}", Ax, Ay, Bx, By);
         //Console.WriteLine("{0} {1} {2} {3}", Dx, Dy, Cx, Cy);
-        
+
         double count = 0;
 
-        for (double y = Ay; y < Cy; y += step)
+        for (double x = -radius; x <= radius; x += step)
         {
-            for (double x = Dx; x < Bx; x += step)
+            for (double y = -radius; y <= radius; y += step)
             {
-                bool isPodoubleInCircle = x * x + y * y < radius * radius;
-                bool isInsideTheRectangle = (x >= Ax && x < Bx) && (y < Cy && y > By);
+                bool isPodoubleInCircle = x * x + y * y <= radius * radius;
+                bool isInsideTheRectangle = (Ax < x && x < Bx) && (By < y && y < Cy);
 
                 if (isPodoubleInCircle && isInsideTheRectangle)
                 {
-
                     count++;
                 }
             }

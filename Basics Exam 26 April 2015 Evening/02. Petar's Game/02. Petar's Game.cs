@@ -1,15 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Numerics;
-
 class Program
 {
     static void Main()
     {
-
         ulong startNumber = ulong.Parse(Console.ReadLine());
         ulong endNumber = ulong.Parse(Console.ReadLine());
         string inputSrring = Console.ReadLine();
@@ -43,9 +37,4 @@ class Program
         sumAsString = sumAsString.Replace(digitToReplace, inputSrring);
         Console.WriteLine(sumAsString);
     }
-
-
-
 }
-
-

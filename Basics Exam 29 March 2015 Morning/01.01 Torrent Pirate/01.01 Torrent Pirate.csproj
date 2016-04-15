@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FB81710-5463-4653-9FE9-1A718E975EB5}</ProjectGuid>
+    <ProjectGuid>{4F27D062-E1A2-420A-B3DE-E84211255B6B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01.Torrent_Pirate</RootNamespace>
-    <AssemblyName>_01.Torrent_Pirate</AssemblyName>
+    <RootNamespace>_01._01_Torrent_Pirate</RootNamespace>
+    <AssemblyName>01.01 Torrent Pirate</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="01. Torrent Pirate.cs" />
+    <Compile Include="01.01 Torrent Pirate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Linq;
-
 class Program
 {
     static void Main()
     {
-
         int[] arr = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
         int k = arr.Length/4;
@@ -19,10 +17,6 @@ class Program
         var row2 = arr.Skip(k).Take(2 * k).ToArray();
         var sumArr = row1.Select((x, index) => x + row2[index]);
         Console.WriteLine(string.Join(" ", sumArr));
-
-
-
-
     }
 }
 

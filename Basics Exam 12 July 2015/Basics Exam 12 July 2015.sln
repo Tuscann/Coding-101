@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 Light the Torches", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.02 Light the Torches", "04.03 Light the Torches\04.02 Light the Torches.csproj", "{0146BD3C-3E82-4F38-85B7-FD0B4290C939}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Wiggle Wiggle", "05.00 Wiggle Wiggle\05.00 Wiggle Wiggle.csproj", "{CEAAD2FF-80EA-4748-9EBE-A306630BF28E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{0146BD3C-3E82-4F38-85B7-FD0B4290C939}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0146BD3C-3E82-4F38-85B7-FD0B4290C939}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0146BD3C-3E82-4F38-85B7-FD0B4290C939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAAD2FF-80EA-4748-9EBE-A306630BF28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAAD2FF-80EA-4748-9EBE-A306630BF28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAAD2FF-80EA-4748-9EBE-A306630BF28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAAD2FF-80EA-4748-9EBE-A306630BF28E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
