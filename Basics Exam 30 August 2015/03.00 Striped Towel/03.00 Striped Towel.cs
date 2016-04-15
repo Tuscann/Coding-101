@@ -1,42 +1,29 @@
 ﻿using System;
-class Program
+class StripedTowel
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());
+        int size = int.Parse(Console.ReadLine());
 
-        if (n == 3)
+        int width = size;
+        int height = size + size / 2;
+
+        for (int i = 0; i < height; i++)
         {
-            Console.WriteLine("#..");
-            Console.WriteLine("..#");
-            Console.WriteLine(".#.");
-            Console.WriteLine("#..");
-        }
-
-
-        for (int i = 0; i < n + n / 2; i++)
-        {
-            for (int j = 0; j < n; j++)
+            for (int j = 0; j < width; j++)
             {
-                Console.Write("k");
+                bool isStripe = (j + i) % 3 == 0;
+                if (isStripe)
+                {
+                    Console.Write("#");
+                }
+                else
+                {
+                    Console.Write(".");
+                }
             }
             Console.WriteLine();
         }
-
-
-
-        //int x = 2;
-        //int y = 1;
-
-
-        //string dasd = "..#";
-        //if (n == 5)
-        //{
-        //    Console.WriteLine("#{0}{1}",new string('.',x),new string('#',y));
-        //}
-
-
-
     }
 }
 

@@ -1,7 +1,7 @@
 ﻿using System;
 class Program
 {
-    private static void Main(string[] args)
+    private static void Main()
     {
         int numberOfSets = int.Parse(Console.ReadLine());
         int numbersPerSet = int.Parse(Console.ReadLine());
@@ -45,8 +45,7 @@ class Program
 
         if (numberOfSetWord != "")
         {
-            Console.WriteLine(
-                "{0} set has the most {1} numbers: {2}",
+            Console.WriteLine("{0} set has the most {1} numbers: {2}",
                 numberOfSetWord,
                 oddOrEvenString,
                 highestNumberOfWords);

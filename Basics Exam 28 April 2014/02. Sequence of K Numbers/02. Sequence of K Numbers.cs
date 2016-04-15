@@ -1,5 +1,4 @@
 ﻿using System;
-
 class KSequence
 {
     static void Main()

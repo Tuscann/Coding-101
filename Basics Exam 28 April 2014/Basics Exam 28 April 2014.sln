@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Fit Box inbox", "01.Fit Box inbox\01.00 Fit Box inbox.csproj", "{D3826368-89CC-447A-8247-0017657C5512}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Fit Box in Box.cs", "01.Fit Box inbox\01.00 Fit Box in Box.cs.csproj", "{D3826368-89CC-447A-8247-0017657C5512}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Fit Box inbox", "01.01 Fit Box inbox\01.01 Fit Box inbox.csproj", "{F37CFC8F-44D6-4C2F-B4A2-3874817FCFEB}"
 EndProject
@@ -21,7 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.03  Disk", "03.03  Disk\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Poker Straight", "04. Poker Straight\04.00 Poker Straight.csproj", "{ED47E95D-2151-4A07-8FC6-15219CC658B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. FriendBits", "05. FriendBits\05. FriendBits.csproj", "{EC9E183D-F64D-4614-B548-61B38B9D58E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 FriendBits", "05. FriendBits\05.00 FriendBits.csproj", "{EC9E183D-F64D-4614-B548-61B38B9D58E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 FriendBits", "05.01  FriendBits\05.01 FriendBits.csproj", "{90CBE8AD-4DDA-46B5-B8D8-E0A579EBA5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 Poker Straight", "04.01 Poker Straight\04.01 Poker Straight.csproj", "{842215AB-8BBD-4D76-8BFA-62CE49CC30FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{EC9E183D-F64D-4614-B548-61B38B9D58E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC9E183D-F64D-4614-B548-61B38B9D58E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC9E183D-F64D-4614-B548-61B38B9D58E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90CBE8AD-4DDA-46B5-B8D8-E0A579EBA5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CBE8AD-4DDA-46B5-B8D8-E0A579EBA5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CBE8AD-4DDA-46B5-B8D8-E0A579EBA5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CBE8AD-4DDA-46B5-B8D8-E0A579EBA5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842215AB-8BBD-4D76-8BFA-62CE49CC30FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842215AB-8BBD-4D76-8BFA-62CE49CC30FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842215AB-8BBD-4D76-8BFA-62CE49CC30FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842215AB-8BBD-4D76-8BFA-62CE49CC30FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
