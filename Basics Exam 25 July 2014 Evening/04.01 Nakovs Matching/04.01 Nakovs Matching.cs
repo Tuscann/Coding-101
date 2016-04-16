@@ -80,7 +80,6 @@ class NakovsMatching
         {
             weight += arr[i];
         }
-
         return weight;
     }
 }

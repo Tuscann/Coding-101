@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Reflection.Emit;
-
 class Program
 {
     private static object dateTime;
-
     static void Main()
     {
         double lampConsumption = 100.53;
@@ -36,8 +33,5 @@ class Program
         double result = Math.Floor(totalLamps * lampConsumption + totalComputars * compConsumption);
 
         Console.WriteLine("{0} Watts", result);
-
-
     }
 }
-

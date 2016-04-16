@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Sunlight", "03.01 Sun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00  Encrypt the Messages", "04.00  Encrypt the Messages\04.00  Encrypt the Messages.csproj", "{6A33A895-E512-4813-B4F5-0680945398BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01  Encrypt the Messages", "04.01  Encrypt the Messages\04.01  Encrypt the Messages.csproj", "{2C7FD92B-2897-4B2A-949C-8137DB19848C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Game of Life", "05.00 Game of Life\05.00 Game of Life.csproj", "{C752799E-5C1E-44F1-A89C-F244817441A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{6A33A895-E512-4813-B4F5-0680945398BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A33A895-E512-4813-B4F5-0680945398BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A33A895-E512-4813-B4F5-0680945398BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C7FD92B-2897-4B2A-949C-8137DB19848C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7FD92B-2897-4B2A-949C-8137DB19848C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7FD92B-2897-4B2A-949C-8137DB19848C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7FD92B-2897-4B2A-949C-8137DB19848C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C752799E-5C1E-44F1-A89C-F244817441A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C752799E-5C1E-44F1-A89C-F244817441A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C752799E-5C1E-44F1-A89C-F244817441A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C752799E-5C1E-44F1-A89C-F244817441A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

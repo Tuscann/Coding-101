@@ -3,7 +3,6 @@ class Program
 {
     static void Main()
     {
-
         string first = Console.ReadLine().ToLower();
         string second = Console.ReadLine().ToLower();
 
@@ -41,8 +40,5 @@ class Program
         {
             Console.WriteLine("No");
         }
-
-
     }
 }
-

@@ -4,3 +4,6 @@ C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\03.S
 C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\03.Star\obj\Debug\03.Star.csprojResolveAssemblyReference.cache
 C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\03.Star\obj\Debug\03.Star.exe
 C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\03.Star\obj\Debug\03.Star.pdb
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\03.Star\bin\Debug\03.Star.exe.config
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\03.Star\obj\Debug\03.Star.exe
+C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 26 August 2014\03.Star\obj\Debug\03.Star.pdb

@@ -184,3 +184,17 @@
 <p>Problem 5 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/10#4">Friend Bits</a>&nbsp;&nbsp;-&nbsp;<a href="http://pastebin.com/X1ChaCXM">Код</a>&nbsp;.</p>
 
 <p>&nbsp;</p>
+
+<p><a href="https://judge.softuni.bg/Contests/Practice/Index/18#0">Basics Exam 25 July 2014 Evening</a></p>
+
+<p>Problem 1 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/18#0">Electricity</a>&nbsp;-&nbsp;<a href="http://pastebin.com/QR5Szbwt">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/R6agpzh5">Код</a>&nbsp;.</p>
+
+<p>Problem 2 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/18#1">Odd and Even Jumps</a>&nbsp;-&nbsp;<a href="http://pastebin.com/6ryDNF5B">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/UCrepqbF">Код</a>.</p>
+
+<p>Problem 3 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/18#2">House with a Window</a>&nbsp;-&nbsp;<a href="http://pastebin.com/yKr8Ta1V" target="_parent">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/yJcULsaC" target="_parent">Код</a>&nbsp;.</p>
+
+<p>Problem 4 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/18#3">Nakovs Matching</a>&nbsp;-&nbsp;<a href="http://pastebin.com/FJu22su2">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/9zn2da4R">Код</a>&nbsp;.</p>
+
+<p>Problem 5 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/18#4">Change Even Bits</a>&nbsp;&nbsp;-&nbsp;<a href="http://pastebin.com/MuAxF4h8">Код</a>&nbsp;.</p>
+
+<p>&nbsp;</p>

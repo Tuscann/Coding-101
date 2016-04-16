@@ -32,4 +32,3 @@ class Program
         Console.WriteLine("{0}", new String('*', 2 * n - 1));
     }
 }
-

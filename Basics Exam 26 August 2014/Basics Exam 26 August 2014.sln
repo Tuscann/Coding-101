@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Tic-Tac-Toe Power", "01. Tic-Tac-Toe Power\01. Tic-Tac-Toe Power.csproj", "{CFBB35C9-0915-44BA-B757-3297CC9A0CAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Tic-Tac-Toe Power", "01. Tic-Tac-Toe Power\01.00 Tic-Tac-Toe Power.csproj", "{CFBB35C9-0915-44BA-B757-3297CC9A0CAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Jumping Sums", "02. Jumping Sums\02. Jumping Sums.csproj", "{9987F540-4463-43B9-9E56-217E2B755ADA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Jumping Sums.cs", "02. Jumping Sums\02.00 Jumping Sums.cs.csproj", "{9987F540-4463-43B9-9E56-217E2B755ADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Star", "03.Star\03.Star.csproj", "{58C0A9D1-F90C-41E0-B7DA-619C3821750F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Star", "03.Star\03.00 Star.csproj", "{58C0A9D1-F90C-41E0-B7DA-619C3821750F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Tic-Tac-Toe Power", "01.001 Tic-Tac-Toe Power\01.01 Tic-Tac-Toe Power.csproj", "{A7D48171-562E-4796-8AE1-56EFFCE0FAA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.02 Tic-Tac-Toe Power", "01.002 Tic-Tac-Toe Power\01.02 Tic-Tac-Toe Power.csproj", "{2DE4801A-6094-4312-A435-374070DC965E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.01 Jumping Sums.cs", "02.01 Jumping Sums.cs\02.01 Jumping Sums.cs.csproj", "{7FB05F73-B2E0-4167-8DE6-2D351D6E5F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Star", "03.01 Star\03.01 Star.csproj", "{C4277B97-31F3-40C2-8C11-26DD594E4FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00  Winning Numbers", "04.00  Winning Numbers\04.00  Winning Numbers.csproj", "{4621F28C-B166-4250-B362-90F7AFB59797}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +37,26 @@ Global
 		{58C0A9D1-F90C-41E0-B7DA-619C3821750F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58C0A9D1-F90C-41E0-B7DA-619C3821750F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58C0A9D1-F90C-41E0-B7DA-619C3821750F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D48171-562E-4796-8AE1-56EFFCE0FAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D48171-562E-4796-8AE1-56EFFCE0FAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D48171-562E-4796-8AE1-56EFFCE0FAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D48171-562E-4796-8AE1-56EFFCE0FAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE4801A-6094-4312-A435-374070DC965E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE4801A-6094-4312-A435-374070DC965E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE4801A-6094-4312-A435-374070DC965E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE4801A-6094-4312-A435-374070DC965E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB05F73-B2E0-4167-8DE6-2D351D6E5F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB05F73-B2E0-4167-8DE6-2D351D6E5F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB05F73-B2E0-4167-8DE6-2D351D6E5F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB05F73-B2E0-4167-8DE6-2D351D6E5F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4277B97-31F3-40C2-8C11-26DD594E4FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4277B97-31F3-40C2-8C11-26DD594E4FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4277B97-31F3-40C2-8C11-26DD594E4FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4277B97-31F3-40C2-8C11-26DD594E4FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4621F28C-B166-4250-B362-90F7AFB59797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4621F28C-B166-4250-B362-90F7AFB59797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4621F28C-B166-4250-B362-90F7AFB59797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4621F28C-B166-4250-B362-90F7AFB59797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

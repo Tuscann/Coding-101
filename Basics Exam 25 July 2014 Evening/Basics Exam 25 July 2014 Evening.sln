@@ -9,15 +9,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01  Electricity", "01.01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Odd and Even Jumps", "02. Odd and Even Jumps\02.00 Odd and Even Jumps.csproj", "{64F3BA7B-FB19-46E2-88E4-A521BDA73408}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. House with a Window", "03. House with a Window\03. House with a Window.csproj", "{4E5CD5EF-CABC-4A06-B161-47E2ADDF4401}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 House with a Window", "03. House with a Window\03.00 House with a Window.csproj", "{4E5CD5EF-CABC-4A06-B161-47E2ADDF4401}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Nakovs Matching", "04. Nakovs Matching\04.00 Nakovs Matching.csproj", "{9DE7B4DA-CEB6-45B0-9384-DCB10493C748}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 Nakovs Matching", "04.01 Nakovs Matching\04.01 Nakovs Matching.csproj", "{27BDA202-220B-4939-8C0D-DF0A44A536C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Change Even Bits", "05. Change Even Bits\05. Change Even Bits.csproj", "{E7473AF4-7C8A-4B71-AEE0-0D0EB72E0C9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Change Even Bits", "05. Change Even Bits\05.00 Change Even Bits.csproj", "{E7473AF4-7C8A-4B71-AEE0-0D0EB72E0C9E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.01 Odd and Even Jumps", "02.01 Odd and Even Jumps\02.01 Odd and Even Jumps.csproj", "{45508F4F-6171-406B-9C9F-2EB074801930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 House with a Window", "03.01 House with a Window\03.01 House with a Window.csproj", "{58D2F06F-95AF-43A8-90A4-48F7D69052F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{45508F4F-6171-406B-9C9F-2EB074801930}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45508F4F-6171-406B-9C9F-2EB074801930}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45508F4F-6171-406B-9C9F-2EB074801930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58D2F06F-95AF-43A8-90A4-48F7D69052F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D2F06F-95AF-43A8-90A4-48F7D69052F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D2F06F-95AF-43A8-90A4-48F7D69052F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D2F06F-95AF-43A8-90A4-48F7D69052F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -36,10 +36,8 @@ class Program
                     evenSum += input[i];
                 }
             }
-            
         }
         Console.WriteLine("Odd: {0}", oddSum.ToString("X"));
         Console.WriteLine("Even: {0}",evenSum.ToString("X"));
     }
 }
-
