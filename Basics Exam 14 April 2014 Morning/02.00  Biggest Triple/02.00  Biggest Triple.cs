@@ -5,7 +5,6 @@ class BiggestTriple
 {
     static void Main()
     {
-       
         int[] numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
         
         int maxSum = Int32.MinValue;

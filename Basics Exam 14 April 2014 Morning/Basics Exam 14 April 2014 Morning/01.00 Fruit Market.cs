@@ -17,7 +17,6 @@ public class FruitMarket
             quantity3 * GetPrice(product3, dayOfWeek);
         Console.WriteLine("{0:f2}", totalPrice);
     }
-
     static decimal GetPrice(string productName, string dayOfWeek) 
         // Assign standard price and check for fruit
     {
@@ -30,8 +29,7 @@ public class FruitMarket
             case "tomato": price = 3.20m; break;
             case "orange": price = 1.60m; isFruit = true; break;
             case "apple": price = 0.86m; isFruit = true; break;
-        }                                        // Apply the daily discounts
-
+        }                                       // Apply the daily discounts
         switch (dayOfWeek)
         {
             case "Friday":
@@ -53,7 +51,6 @@ public class FruitMarket
                     price = price * 0.70m;
                 break;
         }
-
         return price;
     }
 }

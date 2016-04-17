@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Globalization;
 using System.Threading;
-
 class Program
 {
     static void Main()
@@ -40,7 +39,6 @@ class Program
                         break;
                 }
             }
-
             else if (dayOfTheWeek == "Wednesday") // 10% discount for vegetables
             {
                 switch (input)

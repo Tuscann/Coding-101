@@ -18,12 +18,9 @@ Constraints
 •	The values for the center will be integers will be integers in range [0 … 63].
 •	The values for the size will be odd integers in range [1 … 99].
  */
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-
 class BitShooter
 {
     static void Main()
@@ -169,7 +166,6 @@ class BitShooter
             decNumber += (ulong)(int.Parse(number[i].ToString()) * Math.Pow(2, index));
             index++;
         }
-
         return decNumber;
     }
 }
