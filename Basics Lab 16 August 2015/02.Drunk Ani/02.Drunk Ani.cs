@@ -1,21 +1,38 @@
 ﻿using System;
-class Program
+class DrunkAni
 {
     static void Main()
     {
-        double numbersOfCabins = int.Parse(Console.ReadLine());
-        string nextCommand = Console.ReadLine();
-
-
-
-        while (nextCommand!="Found a free one!")
+        long numberOfCabins = long.Parse(Console.ReadLine());
+        long currentPosition = 0;
+        long totalLenghtCovered = 0;
+        long stepsCount = 0;
+        
+        while (true)
         {
-            int stepsCount = int.Parse(nextCommand);
+            string nextCommand = Console.ReadLine();
+            if (nextCommand == "Found a free one!"){break;}
 
+            stepsCount = int.Parse(nextCommand);
 
-            nextCommand = Console.ReadLine();
+            long oldPosition = currentPosition;
+            currentPosition = (currentPosition + stepsCount) % numberOfCabins;
+            long difference = currentPosition - oldPosition;
+
+            if (difference > 0)
+            {
+                Console.WriteLine("Go {0} steps to the right, Ani.", Math.Abs(difference));
+            }
+            else if (difference < 0)
+            {
+                Console.WriteLine("Go {0} steps to the left, Ani.", Math.Abs(difference));
+            }
+            else
+            {
+                Console.WriteLine("Stay there, Ani.");
+            }
+            totalLenghtCovered += Math.Abs(difference);
         }
-        currentposition=(currentposition+stepsCount)
+        Console.WriteLine("Moved a total of {0} steps.", Math.Abs(totalLenghtCovered));
     }
 }
-
