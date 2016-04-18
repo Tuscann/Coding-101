@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01  Vehicle Park", "04.0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Wave Bits", "05.00 Wave Bits\05.00 Wave Bits.csproj", "{13E21066-5CAD-47C5-9F13-79CBF69AA348}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.02  Vehicle Park", "04.02  Vehicle Park\04.02  Vehicle Park.csproj", "{BE6FB8B5-8892-4765-BEA3-16F6B3381E0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{13E21066-5CAD-47C5-9F13-79CBF69AA348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13E21066-5CAD-47C5-9F13-79CBF69AA348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13E21066-5CAD-47C5-9F13-79CBF69AA348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6FB8B5-8892-4765-BEA3-16F6B3381E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6FB8B5-8892-4765-BEA3-16F6B3381E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6FB8B5-8892-4765-BEA3-16F6B3381E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6FB8B5-8892-4765-BEA3-16F6B3381E0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
