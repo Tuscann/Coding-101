@@ -198,3 +198,17 @@
 <p>Problem 5 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/18#4">Change Even Bits</a>&nbsp;&nbsp;-&nbsp;<a href="http://pastebin.com/MuAxF4h8">Код</a>&nbsp;.</p>
 
 <p>&nbsp;</p>
+
+<p><a href="https://judge.softuni.bg/Contests/Practice/Index/8#0">Basics Exam 14 April 2014 Morning</a></p>
+
+<p>Problem 1 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/8#0">Fruit Market</a>&nbsp;-&nbsp;<a href="http://pastebin.com/AwwXg2cs">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/00iZ2QgX">Код</a>&nbsp;- &nbsp;<a href="http://pastebin.com/9pzngNsR">Код</a>.</p>
+
+<p>Problem 2 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/8#1">Biggest Triple</a>&nbsp;-&nbsp;<a href="http://pastebin.com/jFu6UT00">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/6cFKqBfx">Код</a>.</p>
+
+<p>Problem 3 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/8#2">Wine Glass</a>&nbsp;-&nbsp;<a href="http://pastebin.com/AHB5z0bM" target="_parent">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/6bCWbXVv" target="_parent">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/bmjWnq3t" target="_parent">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/ub8fSXB9" target="_parent">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/Xwn2NBNW" target="_parent">Код</a>&nbsp;.</p>
+
+<p>Problem 4 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/8#3">Longest Alphabetical Word</a>&nbsp;-&nbsp;<a href="http://pastebin.com/LHQE5kfA">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/B4HCQHc1">Код</a>&nbsp;.</p>
+
+<p>Problem 5 -&nbsp;<a href="https://judge.softuni.bg/Contests/Practice/Index/8#4">Bit Shooter</a>&nbsp;&nbsp;-&nbsp;<a href="http://pastebin.com/MuAxF4h8">Код</a>&nbsp;-&nbsp;<a href="http://pastebin.com/MuAxF4h8">Код</a>&nbsp;.</p>
+
+<p>&nbsp;</p>
