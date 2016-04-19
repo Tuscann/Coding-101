@@ -1,2 +1,0 @@
-C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 25 July 2014 Evening\01.01  Electricity\bin\Debug\01.01  Electricity.exe.config
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 25 July 2014 Evening\01.01  Electricity\bin\Debug\01.01  Electricity.exe.config

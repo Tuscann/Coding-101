@@ -1,6 +1,0 @@
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Lab 16 August 2015\03.Christmass Tree\bin\Debug\03.Christmass Tree.exe.config
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Lab 16 August 2015\03.Christmass Tree\bin\Debug\03.Christmass Tree.exe
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Lab 16 August 2015\03.Christmass Tree\bin\Debug\03.Christmass Tree.pdb
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Lab 16 August 2015\03.Christmass Tree\obj\Debug\03.Christmass Tree.exe
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Lab 16 August 2015\03.Christmass Tree\obj\Debug\03.Christmass Tree.pdb
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Lab 16 August 2015\03.Christmass Tree\obj\Debug\03.Christmass Tree.csprojResolveAssemblyReference.cache

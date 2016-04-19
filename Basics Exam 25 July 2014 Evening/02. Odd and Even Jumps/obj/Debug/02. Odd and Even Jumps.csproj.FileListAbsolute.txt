@@ -1,7 +1,0 @@
-C:\Users\123\Desktop\SoftUni\Code 101\Coding 101\Basics Exam 25 July 2014 Evening\02. Odd and Even Jumps\bin\Debug\_02.Odd_and_Even_Jumps.exe.config
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 25 July 2014 Evening\02. Odd and Even Jumps\bin\Debug\_02.Odd_and_Even_Jumps.exe.config
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 25 July 2014 Evening\02. Odd and Even Jumps\bin\Debug\_02.Odd_and_Even_Jumps.exe
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 25 July 2014 Evening\02. Odd and Even Jumps\bin\Debug\_02.Odd_and_Even_Jumps.pdb
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 25 July 2014 Evening\02. Odd and Even Jumps\obj\Debug\02. Odd and Even Jumps.csprojResolveAssemblyReference.cache
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 25 July 2014 Evening\02. Odd and Even Jumps\obj\Debug\_02.Odd_and_Even_Jumps.exe
-C:\Users\123\Dropbox\SoftUni\Code 101\Coding 101\Basics Exam 25 July 2014 Evening\02. Odd and Even Jumps\obj\Debug\_02.Odd_and_Even_Jumps.pdb

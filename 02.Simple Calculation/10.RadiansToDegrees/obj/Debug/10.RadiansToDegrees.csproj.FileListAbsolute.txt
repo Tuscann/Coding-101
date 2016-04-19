@@ -1,5 +1,0 @@
-C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\10.RadiansToDegrees\bin\Debug\10.RadiansToDegrees.exe.config
-C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\10.RadiansToDegrees\bin\Debug\10.RadiansToDegrees.exe
-C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\10.RadiansToDegrees\bin\Debug\10.RadiansToDegrees.pdb
-C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\10.RadiansToDegrees\obj\Debug\10.RadiansToDegrees.exe
-C:\Users\123\Desktop\SoftUni\Coding 101\02.Simple Calculation\10.RadiansToDegrees\obj\Debug\10.RadiansToDegrees.pdb
