@@ -3,14 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Fallen In Love", "03.Fallen In Love\03.00 Fallen In Love.csproj", "{431A9BB7-D4B7-4B00-AAF6-334E12E58117}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Hungry Garfield", "01.Hungry Garfield\01.Hungry Garfield.csproj", "{C4AD2BDF-99F7-4DFD-9C55-0240A7301A5E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Encoded Answers", "02.Encoded Answers\02.00 Encoded Answers.csproj", "{C0C4F4EA-C9F0-434E-9576-51E8D7F53170}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Passion Days", "04.Passion Days\04.00 Passion Days.csproj", "{839C6BC6-6E63-46CD-B1F8-314B66B595C2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Fallen In Love", "03.01 Fallen In Love\03.01 Fallen In Love.csproj", "{982E35E0-BD21-4BC1-8BE6-8EE5ADAB1640}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 Passion Days", "04.01 Passion Days\04.01 Passion Days.csproj", "{D7A244B2-A1EE-4ADF-8BC9-7D2F252123AA}"
@@ -21,28 +13,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Salt And Pepper", "05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.01 Encoded Answers", "02.01 Encoded Answers\02.01 Encoded Answers.csproj", "{8044AC54-6A15-4100-9BBF-962AF4D6271E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Hungry Garfield", "01.01 Hungry Garfield\01.01 Hungry Garfield.csproj", "{A100FEA1-A5B8-49CF-95F4-BF140A0D3A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.02 Encoded Answers", "02.02 Encoded Answers\02.02 Encoded Answers.csproj", "{6715BA85-DC04-46C1-ABDF-9856AA452A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.02 Fallen In Love", "03.02 Fallen In Love\03.02 Fallen In Love.csproj", "{766B17D4-1F7E-4078-AADB-BF396E6217AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.02 Passion Days", "04.02 Passion Days\04.02 Passion Days.csproj", "{E61E395B-1609-4371-9708-88BE75E81CFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{431A9BB7-D4B7-4B00-AAF6-334E12E58117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{431A9BB7-D4B7-4B00-AAF6-334E12E58117}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{431A9BB7-D4B7-4B00-AAF6-334E12E58117}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{431A9BB7-D4B7-4B00-AAF6-334E12E58117}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C4AD2BDF-99F7-4DFD-9C55-0240A7301A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4AD2BDF-99F7-4DFD-9C55-0240A7301A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4AD2BDF-99F7-4DFD-9C55-0240A7301A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4AD2BDF-99F7-4DFD-9C55-0240A7301A5E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C0C4F4EA-C9F0-434E-9576-51E8D7F53170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0C4F4EA-C9F0-434E-9576-51E8D7F53170}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0C4F4EA-C9F0-434E-9576-51E8D7F53170}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0C4F4EA-C9F0-434E-9576-51E8D7F53170}.Release|Any CPU.Build.0 = Release|Any CPU
-		{839C6BC6-6E63-46CD-B1F8-314B66B595C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{839C6BC6-6E63-46CD-B1F8-314B66B595C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{839C6BC6-6E63-46CD-B1F8-314B66B595C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{839C6BC6-6E63-46CD-B1F8-314B66B595C2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{982E35E0-BD21-4BC1-8BE6-8EE5ADAB1640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{982E35E0-BD21-4BC1-8BE6-8EE5ADAB1640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{982E35E0-BD21-4BC1-8BE6-8EE5ADAB1640}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -63,6 +47,22 @@ Global
 		{8044AC54-6A15-4100-9BBF-962AF4D6271E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8044AC54-6A15-4100-9BBF-962AF4D6271E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8044AC54-6A15-4100-9BBF-962AF4D6271E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A100FEA1-A5B8-49CF-95F4-BF140A0D3A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A100FEA1-A5B8-49CF-95F4-BF140A0D3A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A100FEA1-A5B8-49CF-95F4-BF140A0D3A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A100FEA1-A5B8-49CF-95F4-BF140A0D3A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6715BA85-DC04-46C1-ABDF-9856AA452A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6715BA85-DC04-46C1-ABDF-9856AA452A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6715BA85-DC04-46C1-ABDF-9856AA452A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6715BA85-DC04-46C1-ABDF-9856AA452A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766B17D4-1F7E-4078-AADB-BF396E6217AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766B17D4-1F7E-4078-AADB-BF396E6217AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766B17D4-1F7E-4078-AADB-BF396E6217AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766B17D4-1F7E-4078-AADB-BF396E6217AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E61E395B-1609-4371-9708-88BE75E81CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61E395B-1609-4371-9708-88BE75E81CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61E395B-1609-4371-9708-88BE75E81CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61E395B-1609-4371-9708-88BE75E81CFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

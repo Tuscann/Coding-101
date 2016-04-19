@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.02 Exam Schedule", "01.0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.01 Odd  Even Elements", "02.01 Odd  Even Elements\02.01 Odd  Even Elements.csproj", "{3C8AF1D8-B19B-494C-8602-BBC53D705401}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Arrow", "03. Arrow\03. Arrow.csproj", "{6ACF6464-78B5-44A5-84B0-936FAECD95E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Arrow", "03. Arrow\03.00 Arrow.csproj", "{6ACF6464-78B5-44A5-84B0-936FAECD95E3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Five Special Letters", "04. Five Special Letters\04.00 Five Special Letters.csproj", "{663A6365-BFF8-4CDF-93D8-C8CBBC34EA5B}"
 EndProject

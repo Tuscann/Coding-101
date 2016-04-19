@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Melons and Watermelon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Melons and Watermelons", "01.00 Water\01.00 Melons and Watermelons.csproj", "{9BDF9603-5ACB-494B-8610-062DE76A0680}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Letters, Symbols, Numbers", "02. Letters, Symbols, Numbers\02. Letters, Symbols, Numbers.csproj", "{7E0422C7-7B5E-4289-AB26-FB712F135B11}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Letters, Symbols, Numbers", "02. Letters, Symbols, Numbers\02.00 Letters, Symbols, Numbers.csproj", "{7E0422C7-7B5E-4289-AB26-FB712F135B11}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Panda Scotland Flag", "03.Panda Scotland Flag\03.00 Panda Scotland Flag.csproj", "{C24CB484-015F-4298-9B97-1CD8311008C2}"
 EndProject
@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 MorseCode", "04.Morse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 MorseCode", "04.01 MorseCode\04.01 MorseCode.csproj", "{7307C4AC-7B3F-4D96-9EF7-22614BAA90A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Bit Paths", "05. Bit Paths\05. Bit Paths.csproj", "{CCB9D546-E919-43C7-A626-2DB6470BEF00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Bit Paths", "05. Bit Paths\05.00 Bit Paths.csproj", "{CCB9D546-E919-43C7-A626-2DB6470BEF00}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Panda Scotland Flag", "03.01 Panda Scotland Flag\03.01 Panda Scotland Flag.csproj", "{364E0592-945F-482B-A84A-407A2A08361D}"
 EndProject

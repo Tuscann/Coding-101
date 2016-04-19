@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Bai Ivan Adventures", "01. Bai Ivan Adventures\01. Bai Ivan Adventures.csproj", "{C7C00436-1F79-461C-B12E-A86E82D53310}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Bai Ivan Adventures", "01. Bai Ivan Adventures\01.00 Bai Ivan Adventures.csproj", "{C7C00436-1F79-461C-B12E-A86E82D53310}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Drunk Ani", "02.Drunk Ani\02.Drunk Ani.csproj", "{E1509AC5-1639-41C1-966A-7C03E5B0489B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Drunk Ani", "02.Drunk Ani\02.00 Drunk Ani.csproj", "{E1509AC5-1639-41C1-966A-7C03E5B0489B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Christmass Tree", "03.Christmass Tree\03.00 Christmass Tree.csproj", "{D94DDCF5-9F1E-4B19-9883-A6C8BF6DD1FB}"
 EndProject
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Christmass Tree", "03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00  Phone Processes", "04.00  Phone Processes\04.00  Phone Processes.csproj", "{0A68766C-BC61-408F-9537-024222DDD19D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.001  Phone Processes", "04.001  Phone Processes\04.001  Phone Processes.csproj", "{02D6CA71-4B23-4695-BFA5-8CFBB1ED9B18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01  Phone Processes", "04.001  Phone Processes\04.01  Phone Processes.csproj", "{02D6CA71-4B23-4695-BFA5-8CFBB1ED9B18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

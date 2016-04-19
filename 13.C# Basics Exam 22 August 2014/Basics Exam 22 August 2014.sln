@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Car", "03.01 Car\03.0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Chess Queens", "04.00 Chess Queens\04.00 Chess Queens.csproj", "{1A415B6E-EB5B-45A6-B38E-AEFECE0A216A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Double Downs", "05.Double Downs\05.Double Downs.csproj", "{20127170-7D51-45C6-AD3A-55607067AD30}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Double Downs", "05.Double Downs\05.00 Double Downs.csproj", "{20127170-7D51-45C6-AD3A-55607067AD30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

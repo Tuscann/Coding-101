@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Fruit Market", "01.01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.04 Wine Glass", "03.04 Wine Glass\03.04 Wine Glass.csproj", "{6466EC34-AEF8-4656-8E25-E1F7C1DBF324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.02 FruitMarket", "01.02 FruitMarket\01.02 FruitMarket.csproj", "{B67B1E72-065C-4568-86A8-53EA6FB28D62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.02 Fruit Market", "01.02 FruitMarket\01.02 Fruit Market.csproj", "{B67B1E72-065C-4568-86A8-53EA6FB28D62}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00  Biggest Triple", "02.00  Biggest Triple\02.00  Biggest Triple.csproj", "{318B9EC9-0073-492B-9438-CF7B79470D27}"
 EndProject

@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Cinema", "01. Cinema\01. Cinema.csproj", "{B14BF470-CAE7-421B-9335-1D3D69E67800}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Illuminati", "02. Illuminati\02. Illuminati.csproj", "{3509AA76-1005-4B45-86E1-6A2B979EDF80}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Newhouse", "03.Newhouse\03.00 Newhouse.csproj", "{1E06E049-7EC2-41D3-BF00-D2C4DA6E0943}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 New House", "03.01 new House\03.01 New House.csproj", "{7CBFC397-8E13-4B05-A8D9-559AF05E02D6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. 00 Crossing Sequences", "04. Crossing Sequences\04. 00 Crossing Sequences.csproj", "{BD0C4EC1-A0A8-4F2F-BC79-C6EAC27735E1}"
@@ -17,9 +11,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 Crosing Sequances", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.02 Crosing Sequances", "04.02 Crosing Sequances\04.02 Crosing Sequances.csproj", "{940A46A3-F0E0-4CFA-B691-0AFEE37AD253}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Catch The Bits", "05. Catch The Bits\05.01 Catch The Bits.csproj", "{A300C7AE-3590-4DC2-ADFD-408227576717}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Catch the Bits", "05.00 Catch the Bits\05.00 Catch the Bits.csproj", "{17541C67-D239-4AE2-9A26-A7F4EBCC6BD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Cinema", "01.01 Cinema\01.01 Cinema.csproj", "{536886A8-D824-4B77-8F81-1780635B2818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.01 Illuminati", "02.01 Illuminati\02.01 Illuminati.csproj", "{3204AC44-5A0F-4674-A0F7-CD666DC00BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.02 Catch the Bits", "05.02 Catch the Bits\05.02 Catch the Bits.csproj", "{C122BBC6-C014-4C5D-8489-9A950C092431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.02 New House", "03.02 New House\03.02 New House.csproj", "{B999EDE5-9C70-4200-BAB5-271896B5F4C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,18 +27,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B14BF470-CAE7-421B-9335-1D3D69E67800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B14BF470-CAE7-421B-9335-1D3D69E67800}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B14BF470-CAE7-421B-9335-1D3D69E67800}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B14BF470-CAE7-421B-9335-1D3D69E67800}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3509AA76-1005-4B45-86E1-6A2B979EDF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3509AA76-1005-4B45-86E1-6A2B979EDF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3509AA76-1005-4B45-86E1-6A2B979EDF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3509AA76-1005-4B45-86E1-6A2B979EDF80}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E06E049-7EC2-41D3-BF00-D2C4DA6E0943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E06E049-7EC2-41D3-BF00-D2C4DA6E0943}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E06E049-7EC2-41D3-BF00-D2C4DA6E0943}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E06E049-7EC2-41D3-BF00-D2C4DA6E0943}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CBFC397-8E13-4B05-A8D9-559AF05E02D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7CBFC397-8E13-4B05-A8D9-559AF05E02D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CBFC397-8E13-4B05-A8D9-559AF05E02D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -55,14 +43,26 @@ Global
 		{940A46A3-F0E0-4CFA-B691-0AFEE37AD253}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{940A46A3-F0E0-4CFA-B691-0AFEE37AD253}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{940A46A3-F0E0-4CFA-B691-0AFEE37AD253}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A300C7AE-3590-4DC2-ADFD-408227576717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A300C7AE-3590-4DC2-ADFD-408227576717}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A300C7AE-3590-4DC2-ADFD-408227576717}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A300C7AE-3590-4DC2-ADFD-408227576717}.Release|Any CPU.Build.0 = Release|Any CPU
 		{17541C67-D239-4AE2-9A26-A7F4EBCC6BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{17541C67-D239-4AE2-9A26-A7F4EBCC6BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17541C67-D239-4AE2-9A26-A7F4EBCC6BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17541C67-D239-4AE2-9A26-A7F4EBCC6BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536886A8-D824-4B77-8F81-1780635B2818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536886A8-D824-4B77-8F81-1780635B2818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536886A8-D824-4B77-8F81-1780635B2818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536886A8-D824-4B77-8F81-1780635B2818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3204AC44-5A0F-4674-A0F7-CD666DC00BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3204AC44-5A0F-4674-A0F7-CD666DC00BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3204AC44-5A0F-4674-A0F7-CD666DC00BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3204AC44-5A0F-4674-A0F7-CD666DC00BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C122BBC6-C014-4C5D-8489-9A950C092431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C122BBC6-C014-4C5D-8489-9A950C092431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C122BBC6-C014-4C5D-8489-9A950C092431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C122BBC6-C014-4C5D-8489-9A950C092431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B999EDE5-9C70-4200-BAB5-271896B5F4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B999EDE5-9C70-4200-BAB5-271896B5F4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B999EDE5-9C70-4200-BAB5-271896B5F4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B999EDE5-9C70-4200-BAB5-271896B5F4C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

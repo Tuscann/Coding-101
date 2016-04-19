@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Cake Tycoon", "01.Cake Tycoon\01.Cake Tycoon.csproj", "{FF45D0D7-CA57-48B6-8EED-6290BF4BB5F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Cake Tycoon", "01.Cake Tycoon\01.00 Cake Tycoon.csproj", "{FF45D0D7-CA57-48B6-8EED-6290BF4BB5F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Beer Stock", "02.00 Beer Stock\02.00 Beer Stock.csproj", "{1B37433B-554B-4A78-9A57-DEC6F472A4C8}"
 EndProject
@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00  Illuminati Lock", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Illuminati Lock", "03.01 Ilu\03.01 Illuminati Lock.csproj", "{10A93AD9-D6BC-446A-A2FF-D34329AA273F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Master Herbalist", "04.Master Herbalist\04.Master Herbalist.csproj", "{2B2DB727-EB72-4B97-966F-790DC1CD04D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Master Herbalist", "04.Master Herbalist\04.00 Master Herbalist.csproj", "{2B2DB727-EB72-4B97-966F-790DC1CD04D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00  Emergency Repairs", "05.00  Emergency Repairs\05.00  Emergency Repairs.csproj", "{C26D7D3F-9BA8-48F9-98C4-A371BC55FF22}"
 EndProject

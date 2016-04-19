@@ -5,7 +5,7 @@ class Plane
     {
         int n = int.Parse(Console.ReadLine());
         int width = 3 * n;
-        int height = n * 3 - (n / 2);
+      
         Console.WriteLine("{0}*{0}", new string('.', width / 2));
         int count = 1;
         for (int i = 0; i < n; i++)

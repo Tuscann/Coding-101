@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Impress the girlfriend", "01.Impress the girlfriend\01.Impress the girlfriend.csproj", "{E0C67FCE-0391-4840-A679-F78F0A632363}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Impress the girlfriend", "01.Impress the girlfriend\01.00 Impress the girlfriend.csproj", "{E0C67FCE-0391-4840-A679-F78F0A632363}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Take The Plane Down", "02.Take The Plane Down\02.00 Take The Plane Down.csproj", "{BBD071F9-91CB-40BA-BE78-EB39E4D3E31D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Ace of Diamonds", "03.Ace of Diamonds\03.Ace of Diamonds.csproj", "{62F238DF-FD4A-460C-B97E-F00DB75B289F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Ace of Diamonds", "03.Ace of Diamonds\03.00 Ace of Diamonds.csproj", "{62F238DF-FD4A-460C-B97E-F00DB75B289F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.01 Take The Plane Down", "02.01\02.01 Take The Plane Down.csproj", "{076DE6A0-2AED-447D-A28C-971CDFB31E35}"
 EndProject
