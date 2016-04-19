@@ -1,5 +1,4 @@
 ﻿using System;
-
 class XBits
 {
     static void Main()
