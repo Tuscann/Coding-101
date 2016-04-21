@@ -16,9 +16,7 @@ class Program
             {
                 Console.WriteLine(num);
             }
-
     }
-
     static bool IsPalindrome(int num)
     {
         string digits = "" + num;

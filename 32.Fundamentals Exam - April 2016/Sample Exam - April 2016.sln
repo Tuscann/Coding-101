@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.04 Vehicle Park", "04.04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.05 Vehicle Park", "04.05 Vehicle Park\04.05 Vehicle Park.csproj", "{4E184243-4F6B-4344-9506-962C2FD7B573}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Wave Bits", "05.01 Wave Bits\05.01 Wave Bits.csproj", "{63810859-D080-4F22-84AF-84D50583D8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01  Dress Pattern", "03.01  Dress Pattern\03.01  Dress Pattern.csproj", "{FC5FD7B7-C58A-42D9-92CF-3998E5933B83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{4E184243-4F6B-4344-9506-962C2FD7B573}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E184243-4F6B-4344-9506-962C2FD7B573}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E184243-4F6B-4344-9506-962C2FD7B573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63810859-D080-4F22-84AF-84D50583D8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63810859-D080-4F22-84AF-84D50583D8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63810859-D080-4F22-84AF-84D50583D8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63810859-D080-4F22-84AF-84D50583D8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5FD7B7-C58A-42D9-92CF-3998E5933B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5FD7B7-C58A-42D9-92CF-3998E5933B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5FD7B7-C58A-42D9-92CF-3998E5933B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5FD7B7-C58A-42D9-92CF-3998E5933B83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

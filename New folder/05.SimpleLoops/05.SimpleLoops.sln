@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.00 Half Sum Element", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.00 Odd  Even Position", "11.00 Odd  Even Position\11.00 Odd  Even Position.csproj", "{A5707A02-3A9A-4FED-928D-295D69414401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.00 Equal Pairs", "12.00 Equal Pairs\12.00 Equal Pairs.csproj", "{A34FC754-4E53-4FBB-8757-E7314E75E851}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A5707A02-3A9A-4FED-928D-295D69414401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5707A02-3A9A-4FED-928D-295D69414401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5707A02-3A9A-4FED-928D-295D69414401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34FC754-4E53-4FBB-8757-E7314E75E851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34FC754-4E53-4FBB-8757-E7314E75E851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34FC754-4E53-4FBB-8757-E7314E75E851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34FC754-4E53-4FBB-8757-E7314E75E851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

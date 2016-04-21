@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 Firefighters", "04.01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Bohemcho The Bad Ghost", "05.00 Bohemcho The Bad Ghost\05.00 Bohemcho The Bad Ghost.csproj", "{6BB794AF-BB6F-4BE7-BCE5-31045027CD85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Bohemcho The Bad Ghost", "05.01.\05.01 Bohemcho The Bad Ghost.csproj", "{64DC039C-F514-4447-BD8E-E8FB23F476B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Bohemcho The Bad Ghost", "05.01\05.01 Bohemcho The Bad Ghost.csproj", "{64DC039C-F514-4447-BD8E-E8FB23F476B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

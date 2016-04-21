@@ -21,7 +21,6 @@ class Program
                 mainMatrix[rows, cols] = readLine[cols];
             }
         }
-
         // BLUR INFO
         var infoBlur = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
         var blurRow = infoBlur[0];
