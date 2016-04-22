@@ -1,6 +1,4 @@
 ﻿using System;
-
-
 class ProspectInHospitality
 {
     static void Main()

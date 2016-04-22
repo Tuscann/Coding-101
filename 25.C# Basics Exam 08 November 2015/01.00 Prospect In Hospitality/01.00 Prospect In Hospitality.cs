@@ -1,5 +1,4 @@
 ﻿using System;
-
 internal class Problem01ProspectInHospitality
 {
     private static void Main()
@@ -9,7 +8,6 @@ internal class Problem01ProspectInHospitality
         decimal chambermaidsSalary = 1465.46m;
         decimal techniciansSalary = 2053.33m;
         decimal othersSalary = 3010.98m;
-
 
         uint b = uint.Parse(Console.ReadLine());
         buildersSalary *= b;
