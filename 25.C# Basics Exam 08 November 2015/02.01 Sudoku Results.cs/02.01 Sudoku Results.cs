@@ -30,7 +30,5 @@ class Program
         {
             Console.WriteLine("Bronze Star\nGames - {0} \\ Average seconds - {1}", counter, average);
         }
-
     }
 }
-

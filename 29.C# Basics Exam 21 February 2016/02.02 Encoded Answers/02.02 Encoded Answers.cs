@@ -9,7 +9,6 @@ class Program
         int b = 0;
         int c = 0;
         int d = 0;
-
         for (int i = 0; i < n; i++)
         {
             string answer;
@@ -37,7 +36,6 @@ class Program
                 answer = "b ";
             }
             result = result + answer;
-
         }
         Console.WriteLine("{0}", result);
         Console.WriteLine("Answer A: {0}", a);
@@ -46,4 +44,3 @@ class Program
         Console.WriteLine("Answer D: {0}", d);
     }
 }
-

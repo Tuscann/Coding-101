@@ -23,14 +23,12 @@ class EncodedAnswers
                 case 'd': counts[3]++; break;
             }
         }
-
         PrintAnswers(answers);
         Console.WriteLine("Answer A: {0}", counts[0]);
         Console.WriteLine("Answer B: {0}", counts[1]);
         Console.WriteLine("Answer C: {0}", counts[2]);
         Console.WriteLine("Answer D: {0}", counts[3]);
     }
-
     static void PrintAnswers(List<char> answers)
     {
         for (int i = 0; i < answers.Count; i++)

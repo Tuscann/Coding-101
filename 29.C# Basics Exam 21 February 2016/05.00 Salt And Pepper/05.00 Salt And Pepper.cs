@@ -49,7 +49,6 @@ class SaltAndPepper
         {
             addBits.Append(bits[i]);
         }
-
         ulong res = Convert.ToUInt64(addBits.ToString(), 2);
         Console.WriteLine(res);
     }

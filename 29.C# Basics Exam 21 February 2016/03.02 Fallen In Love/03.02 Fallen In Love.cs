@@ -18,7 +18,6 @@ class Program
             b -= 2;
             c += 2;
         }
-
         int aa = n;
         int bb = 2 * n;
         int cc = 0;

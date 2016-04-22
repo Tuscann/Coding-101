@@ -20,13 +20,10 @@ class Program
         if (x <= money)
         {
             Console.WriteLine("Garfield is well fed, John is awesome. Money left: ${0:0.00}.", money - x);
-
         }
         else if (x > money)
         {
             Console.WriteLine("Garfield is hungry. John is a badass. Money needed: ${0:0.00}.", Math.Abs(money - x));
         }
-
     }
 }
-

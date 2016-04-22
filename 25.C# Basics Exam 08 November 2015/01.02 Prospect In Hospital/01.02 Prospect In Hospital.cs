@@ -1,5 +1,4 @@
 ﻿using System;
-
 internal class Problem01ProspectInHospitality
 {
     private static void Main()
