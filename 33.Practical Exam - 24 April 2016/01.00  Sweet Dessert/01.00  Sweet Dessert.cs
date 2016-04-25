@@ -5,7 +5,6 @@ class Program
     {
         decimal money = decimal.Parse(Console.ReadLine());
         decimal guests = decimal.Parse(Console.ReadLine());
-
         decimal bananas = decimal.Parse(Console.ReadLine());
         decimal eggs = decimal.Parse(Console.ReadLine());
         decimal berries = decimal.Parse(Console.ReadLine());
@@ -16,12 +15,8 @@ class Program
         {
             portions++;
         }
-        //Console.WriteLine(portion);
-        //Console.WriteLine("{0}", portion * (2 * bananas));
-        //Console.WriteLine("{0}", portion * (4 * eggs));
-        //Console.WriteLine("{0}", portion * (decimal)0.2 * (decimal)berries);
 
-        decimal total = portions * (2 * bananas) + (portions * (4 * eggs)) + (portions * ((decimal)0.2 * berries));
+        decimal total = portions * (2 * bananas + 4 * eggs + (decimal)0.2 * berries);
         
         //Output
 
