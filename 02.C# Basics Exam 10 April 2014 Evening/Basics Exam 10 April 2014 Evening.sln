@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Volleyballl", "01. Vo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Volleyball", "01.00 Volleyball\01.00 Volleyball.csproj", "{3B9462AA-7C6D-4275-AD99-5B4942765802}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Odd Even Sum", "02. Odd Even Sum\02. Odd Even Sum.csproj", "{8EB1F39D-7A09-4103-9AD2-78E90DE0E940}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Odd Even Sum", "02. Odd Even Sum\02.00 Odd Even Sum.csproj", "{8EB1F39D-7A09-4103-9AD2-78E90DE0E940}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Hayvan Numbers", "04. Hayvan Numbers\04.00 Hayvan Numbers.csproj", "{254AFDA9-0DBC-4086-AE1D-2B3A0FC286A8}"
 EndProject

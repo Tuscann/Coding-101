@@ -1,5 +1,4 @@
 ﻿using System;
-using System.ComponentModel;
 class Program
 {
     static void Main()
@@ -29,8 +28,6 @@ class Program
         else
         {
             Console.WriteLine("No, diff={0}", sum2 - sum1);
-
         }
     }
 }
-

@@ -9,14 +9,10 @@ class Program
 
         double x = ((48 - hometown) * (3.0 / 4.0)) + (p * (2.0 / 3.0)) + hometown;
 
-        if (year == "leap")
+        if (year == "leap")  // leap yaer
         {
-            x = (((48 - hometown) * (3.0 / 4.0)) + (p * (2.0 / 3.0)) + hometown) * 1.15;
+            x = x * 1.15;
         }
         Console.WriteLine(Math.Floor(x));
-
     }
-
 }
-
-

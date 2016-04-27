@@ -33,7 +33,6 @@ class NineDigitMagicNumbers
                 }
             }
         }
-
         if (!foundSolution)
         {
             Console.WriteLine("No");

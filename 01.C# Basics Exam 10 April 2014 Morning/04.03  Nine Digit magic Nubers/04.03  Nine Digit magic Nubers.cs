@@ -38,11 +38,9 @@ class NineDigitMagicNumbers
                 }
             }
         }
-
         if (count == 0)
         {
             Console.WriteLine("No");
         }
     }
-
 }

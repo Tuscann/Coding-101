@@ -3,7 +3,6 @@ class Program
 {
     static void Main()
     {
-
         int n = int.Parse(Console.ReadLine());
 
         decimal sumOdd = 0;
@@ -20,9 +19,7 @@ class Program
             {
                 sumEven = sumEven + a;
             }
-            
         }
-        
         if (sumOdd == sumEven)
         {
             Console.WriteLine("Yes, sum={0}", sumOdd);

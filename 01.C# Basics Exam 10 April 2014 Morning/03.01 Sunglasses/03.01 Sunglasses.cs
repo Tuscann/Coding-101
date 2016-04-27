@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Sunglasses
 {
     static void Main()
@@ -18,7 +17,6 @@ class Sunglasses
             }
         }
     }
-
     private static void PrintMiddlePart(int n, int i)
     {
         string lens = new string('/', n * 2 - 2);
@@ -36,6 +34,6 @@ class Sunglasses
     {
         string frame = new string('*', 2 * n);
         string emptySpace = new string(' ', n);
-        Console.WriteLine("{0}{1}{0}", frame, emptySpace, frame);
+        Console.WriteLine("{0}{1}{0}", frame, emptySpace);
     }
 }

@@ -10,6 +10,11 @@ namespace _05._00_Closest_Two_Points
     {
         static void Main(string[] args)
         {
+             
+
+
+
+
         }
     }
 }
