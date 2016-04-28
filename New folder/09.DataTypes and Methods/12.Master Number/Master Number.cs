@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 class Program
 {
     static void Main()
@@ -12,7 +7,7 @@ class Program
 
         for (int num = 1; num < n; num++)
 
-            if (IsPalindrome(n) && (SumOfDigits(n) % 7 == 0) /*&& ContainsEvenDigit(num)*/)
+            if (IsPalindrome(n) && (SumOfDigits(n) % 7 == 0) && ContainsEvenDigit(num))
             {
                 Console.WriteLine(num);
             }
@@ -40,17 +35,17 @@ class Program
         return sum;
     }
 
-    //    static bool ContainsEvenDigit(int num)
-    //    {
-    //        string digits = "" + num;
-    //        for (int i = 0; i < digits.Length; i++)
-    //        {
-    //            int digit = digits[i] - '0';
-    //
-    //            if (digit % 2 == 0)
-    //                return true;
-    //        }
-    //        return false;
-    //    }
+    static bool ContainsEvenDigit(int num)
+    {
+        string digits = "" + num;
+        for (int i = 0; i < digits.Length; i++)
+        {
+            int digit = digits[i] - '0';
+
+            if (digit % 2 == 0)
+                return true;
+        }
+        return false;
+    }
 
 }

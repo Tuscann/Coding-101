@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B1155993-84E3-4C83-9CED-073B2498593A}</ProjectGuid>
+    <ProjectGuid>{7E3C6310-89C1-4394-AE95-AFFDD5DC5049}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_08.DataTypes_and_Methods</RootNamespace>
-    <AssemblyName>08.DataTypes and Methods</AssemblyName>
+    <RootNamespace>_01._00_CenturiesToMinutes</RootNamespace>
+    <AssemblyName>01.00 CenturiesToMinutes</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="01.CenturiesToMinutes.cs" />
+    <Compile Include="01.00 CenturiesToMinutes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Greeting
 {
     static void Main()
@@ -12,4 +11,3 @@ class Greeting
         Console.WriteLine($"Hello, {firstName} {lastName}.\r\nYou are {age} years old.");
     }
 }
-

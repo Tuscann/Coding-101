@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22DDA4C4-C405-4CF8-B44D-5C0A3BAF14ED}</ProjectGuid>
+    <ProjectGuid>{48621F50-6CC1-4D1E-9F0B-DE9420F57E50}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_04.Exact_Sum_of_Real_Numbers</RootNamespace>
-    <AssemblyName>04.Exact Sum of Real Numbers</AssemblyName>
+    <RootNamespace>_15._00__Boolean_Variable</RootNamespace>
+    <AssemblyName>15.00  Boolean Variable</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exact Sum of Real Numbers.cs" />
+    <Compile Include="15.00  Boolean Variable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

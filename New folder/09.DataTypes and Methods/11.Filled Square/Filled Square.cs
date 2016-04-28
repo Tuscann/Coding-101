@@ -1,40 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 class Program
 {
-    static void Main()
+    private static void Main()
     {
-        var number = int.Parse(Console.ReadLine());
+        int n = int.Parse(Console.ReadLine());
 
-        PrintFooter(number);
-        EasyWay (number);
-        PrintFooter(number);
+        Console.WriteLine("{0}", new String('-', 2 * n));
 
-    }
-    private static void EasyWay(int number)
-    {
-        for (var i = 1; i < number; i++)
+        for (int j = 0; j < n - 2; j++)
         {
-            Console.Write('-');
-            for (var j = 0; j <= number - 2; j++)
+            Console.Write("-");
+            for (int i = 0; i < n - 1; i++)
             {
-                Console.Write(@"\/");
+                Console.Write("{0}", new String('\\', n / n));
+                Console.Write("{0}", new String('/', n / n));
             }
-            Console.Write('-');
-            Console.WriteLine();
+            Console.WriteLine("-");
         }
+        Console.WriteLine("{0}", new String('-', 2 * n));
     }
-    private static void PrintFooter(int number)
-    {
-        Console.WriteLine("{0}", new string('-', 2 * number));
-    }
-
-    static void dasdas(int number)
-    {
-    }
-
 }
-

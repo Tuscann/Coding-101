@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("08.DataTypes and Methods")]
+[assembly: AssemblyTitle("34.00  Primes in Given Range")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("08.DataTypes and Methods")]
+[assembly: AssemblyProduct("34.00  Primes in Given Range")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b1155993-84e3-4c83-9ced-073b2498593a")]
+[assembly: Guid("a786d223-8bd8-470e-a1eb-14df8a9a821b")]
 
 // Version information for an assembly consists of the following four values:
 //
