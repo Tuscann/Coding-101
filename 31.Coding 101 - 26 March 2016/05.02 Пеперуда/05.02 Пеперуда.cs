@@ -6,9 +6,6 @@ class Butterfly
     {
         int n = int.Parse(Console.ReadLine());
 
-        int rows = 2 * (n - 2) + 1;
-        int cols = 2 * n - 1;
-
         // using ?: operator https://msdn.microsoft.com/en-us/library/ty67wk28.aspx
         for (int i = 0; i < n - 2; i++)
         {

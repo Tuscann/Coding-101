@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("05. Пеперуда")]
+[assembly: AssemblyTitle("09.01 Condense Array to Number")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("05. Пеперуда")]
+[assembly: AssemblyProduct("09.01 Condense Array to Number")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5c1357b5-e2af-4abf-883b-1a2e93b33209")]
+[assembly: Guid("a014461c-00bc-4cfa-8cc8-92dd9ce6f1cf")]
 
 // Version information for an assembly consists of the following four values:
 //

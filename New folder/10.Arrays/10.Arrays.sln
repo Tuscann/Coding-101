@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Rotate and Sum", "12. R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.01 Fold and Sum", "11.01 Fold and Sum\11.01 Fold and Sum.csproj", "{6B0FFE03-B7FB-4547-B524-A4B59F0691D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.01 Condense Array to Number", "09.01 Condense Array to Number\09.01 Condense Array to Number.csproj", "{A014461C-00BC-4CFA-8CC8-92DD9CE6F1CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6B0FFE03-B7FB-4547-B524-A4B59F0691D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B0FFE03-B7FB-4547-B524-A4B59F0691D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B0FFE03-B7FB-4547-B524-A4B59F0691D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A014461C-00BC-4CFA-8CC8-92DD9CE6F1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A014461C-00BC-4CFA-8CC8-92DD9CE6F1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A014461C-00BC-4CFA-8CC8-92DD9CE6F1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A014461C-00BC-4CFA-8CC8-92DD9CE6F1CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

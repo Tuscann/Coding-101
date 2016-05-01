@@ -3,7 +3,6 @@ class Program
 {
     static void Main()
     {
-
         int n = int.Parse(Console.ReadLine());
 
         if (n == 3)
@@ -18,7 +17,6 @@ class Program
             for (int i = 0; i < (n - 2) / 2; i++)
             {
                 Console.WriteLine("{0}\\ /{0}", new string('-', (2 * n - 4) / 2));
-
             }
             Console.WriteLine("{0}\\ /{0}", new string('*', (2 * n - 4) / 2));
             Console.WriteLine("{0}@{0}", new string(' ', (2 * n - 2) / 2));
@@ -26,7 +24,6 @@ class Program
             for (int i = 0; i < (n - 2) / 2; i++)
             {
                 Console.WriteLine("{0}/ \\{0}", new string('-', (2 * n - 4) / 2));
-
             }
             Console.WriteLine("{0}/ \\{0}", new string('*', (2 * n - 4) / 2));
 
@@ -38,7 +35,6 @@ class Program
             {
                 Console.WriteLine("{0}\\ /{0}", new string('-', (2 * n - 4) / 2));
                 Console.WriteLine("{0}\\ /{0}", new string('*', (2 * n - 4) / 2));
-
             }
             Console.WriteLine("{0}\\ /{0}", new string('-', (2 * n - 4) / 2));
             Console.WriteLine("{0}\\ /{0}", new string('*', (2 * n - 4) / 2));
@@ -49,7 +45,6 @@ class Program
             {
                 Console.WriteLine("{0}/ \\{0}", new string('-', (2 * n - 4) / 2));
                 Console.WriteLine("{0}/ \\{0}", new string('*', (2 * n - 4) / 2));
-
             }
             Console.WriteLine("{0}/ \\{0}", new string('-', (2 * n - 4) / 2));
             Console.WriteLine("{0}/ \\{0}", new string('*', (2 * n - 4) / 2));
