@@ -13,6 +13,5 @@ class Program
             fib1 = nextFib;
         }
         Console.WriteLine(fib1);
-
     }
 }

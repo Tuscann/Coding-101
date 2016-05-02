@@ -7,7 +7,7 @@ class Program
 
         for (int num = 1; num < n; num++)
 
-            if (IsPalindrome(n) && (SumOfDigits(n) % 7 == 0) && ContainsEvenDigit(num))
+            if (IsPalindrome(num) && (SumOfDigits(num) % 7 == 0) && ContainsEvenDigit(num))
             {
                 Console.WriteLine(num);
             }
@@ -21,20 +21,16 @@ class Program
                 return false;
         return true;
     }
-
     static int SumOfDigits(int num)
     {
         int sum = 0;
         while (num > 0)
         {
-
             sum = sum + num % 10;
             num = num / 10;
         }
-
         return sum;
     }
-
     static bool ContainsEvenDigit(int num)
     {
         string digits = "" + num;
@@ -47,5 +43,4 @@ class Program
         }
         return false;
     }
-
 }

@@ -1,5 +1,4 @@
 ﻿using System;
-
 class HayvanNumbers
 {
     static void Main()
@@ -11,8 +10,8 @@ class HayvanNumbers
         {
             int num2 = num1 + diff;
             int num3 = num2 + diff;
-            if (IsAllowedNumber(num1) && IsAllowedNumber(num2) && IsAllowedNumber(num3) &&
-                (num3 <= 999) &&
+            if (IsAllowedNumber(num1) && IsAllowedNumber(num2)
+                && IsAllowedNumber(num3) && (num3 <= 999) &&
                 CalcSumOfDigits(num1) + CalcSumOfDigits(num2) + CalcSumOfDigits(num3) == sum)
             {
                 Console.WriteLine("{0}{1}{2}", num1, num2, num3);

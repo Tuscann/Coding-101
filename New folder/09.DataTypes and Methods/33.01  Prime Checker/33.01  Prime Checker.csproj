@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8189F885-2048-4B3E-BDFB-CDB6EB30D545}</ProjectGuid>
+    <ProjectGuid>{D28EB2E2-E35D-4306-A0FC-2786325DA45D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01.Volleyballl</RootNamespace>
-    <AssemblyName>_01.Volleyballl</AssemblyName>
+    <RootNamespace>_33._01__Prime_Checker</RootNamespace>
+    <AssemblyName>33.01  Prime Checker</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="01.01 Volleyballl.cs" />
+    <Compile Include="33.01  Prime Checker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

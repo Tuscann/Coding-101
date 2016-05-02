@@ -1,14 +1,16 @@
 ﻿using System;
-class Program
-{
-    static void Main()
-    {
-        int max = int.MinValue;
 
-        for (int i = 0; i < 3; i++)
+internal class Program
+{
+    private static void Main()
+    {
+        decimal max = decimal.MinValue;
+
+        for (decimal i = 0; i <= 2; i++)
         {
-            int n = int.Parse(Console.ReadLine());
-            if (n > max)
+            decimal n = decimal.Parse(Console.ReadLine());
+
+            if (n >= max)
             {
                 max = n;
             }

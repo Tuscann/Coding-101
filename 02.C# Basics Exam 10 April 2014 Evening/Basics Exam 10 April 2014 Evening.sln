@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 BitsUp", "05.01  Bits
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 Hayvan Numbers", "04.000001 Hayvan Numbers\04.01 Hayvan Numbers.csproj", "{8F3F5031-05D2-41E1-8537-B460075260D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00  Eclipse", "03.00  Eclipse\03.00  Eclipse.csproj", "{352A5046-F64A-4382-B733-68E663DCA2DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8F3F5031-05D2-41E1-8537-B460075260D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3F5031-05D2-41E1-8537-B460075260D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3F5031-05D2-41E1-8537-B460075260D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{352A5046-F64A-4382-B733-68E663DCA2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352A5046-F64A-4382-B733-68E663DCA2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352A5046-F64A-4382-B733-68E663DCA2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352A5046-F64A-4382-B733-68E663DCA2DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
