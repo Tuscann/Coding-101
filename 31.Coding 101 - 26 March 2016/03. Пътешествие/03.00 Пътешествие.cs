@@ -3,7 +3,6 @@ class Program
 {
     static void Main()
     {
-
         decimal budjet = decimal.Parse(Console.ReadLine());
         string season = Console.ReadLine();
 
@@ -55,4 +54,3 @@ class Program
         }
     }
 }
-

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("06.using System;")]
+[assembly: AssemblyTitle("27.01  Different Integers Size")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("06.using System;")]
+[assembly: AssemblyProduct("27.01  Different Integers Size")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("19662b30-e9ac-4472-9d49-c8c51e2a34bb")]
+[assembly: Guid("b1aa5500-4aa6-412d-ac69-9d2461219f48")]
 
 // Version information for an assembly consists of the following four values:
 //

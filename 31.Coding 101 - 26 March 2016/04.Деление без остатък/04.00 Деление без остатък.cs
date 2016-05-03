@@ -19,9 +19,8 @@ class Program
         }
         decimal x = ((decimal)p1 / (decimal)n) * 100;
         decimal x1 = ((decimal)p2 / (decimal)n) * 100;
-        decimal x2 = ((decimal)(p3) / n) * 100;
+        decimal x2 = ((decimal)p3 / (decimal)n) * 100;
 
         Console.WriteLine("{0:f2}%\n{1:f2}%\n{2:f2}%\n", x, x1, x2);
     }
 }
-

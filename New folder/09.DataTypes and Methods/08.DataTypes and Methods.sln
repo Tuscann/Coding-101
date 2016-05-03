@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34.00  Primes in Given Rang
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33.01  Prime Checker", "33.01  Prime Checker\33.01  Prime Checker.csproj", "{D28EB2E2-E35D-4306-A0FC-2786325DA45D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.01  Different Integers Size", "27.01  Different Integers Size\27.01  Different Integers Size.csproj", "{B1AA5500-4AA6-412D-AC69-9D2461219F48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{D28EB2E2-E35D-4306-A0FC-2786325DA45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D28EB2E2-E35D-4306-A0FC-2786325DA45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D28EB2E2-E35D-4306-A0FC-2786325DA45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AA5500-4AA6-412D-AC69-9D2461219F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AA5500-4AA6-412D-AC69-9D2461219F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AA5500-4AA6-412D-AC69-9D2461219F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AA5500-4AA6-412D-AC69-9D2461219F48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

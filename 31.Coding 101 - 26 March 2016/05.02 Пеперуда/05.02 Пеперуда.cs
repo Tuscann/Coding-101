@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Butterfly
 {
     static void Main()

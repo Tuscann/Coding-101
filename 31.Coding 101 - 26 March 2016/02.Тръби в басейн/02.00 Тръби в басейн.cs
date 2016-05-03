@@ -3,7 +3,6 @@ class Program
 {
     static void Main()
     {
-
         double v = double.Parse(Console.ReadLine());
         double P1 = double.Parse(Console.ReadLine());
         double P2 = double.Parse(Console.ReadLine());
@@ -27,9 +26,6 @@ class Program
             double more = total - v;
 
             Console.WriteLine("For {0} hours the pool overflows with {1} liters.",H,more);
-
         }
-
     }
 }
-
