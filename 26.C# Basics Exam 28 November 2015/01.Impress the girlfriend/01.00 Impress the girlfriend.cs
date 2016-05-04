@@ -22,4 +22,3 @@ class Program
         Console.WriteLine("{0:f2}",Math.Ceiling(biggest));
     }
 }
-

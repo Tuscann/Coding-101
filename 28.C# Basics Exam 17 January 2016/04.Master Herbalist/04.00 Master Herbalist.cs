@@ -29,8 +29,8 @@ class Program
         }
         //Console.WriteLine(totalMoney);
         decimal average = (decimal)totalMoney / days;
+
         if (average >= dailyExpenses)
-       
         {
             Console.WriteLine("Times are good. Extra money per day: {0:F2}.", average - dailyExpenses);
         }
@@ -41,4 +41,3 @@ class Program
         }
     }
 }
-

@@ -21,6 +21,8 @@ class Program
         {
             isPrime = false;
         }
+        //if (isPrime) { Console.WriteLine("true"); }
+        //else { Console.WriteLine("false"); }
         Console.WriteLine(isPrime ? "true" : "false", n);
     }
 }

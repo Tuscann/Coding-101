@@ -23,7 +23,5 @@ class Program
                 Console.WriteLine("You destroyed a plane at [{0},{1}]", planeX, planeY);
             }
         }
-
     }
 }
-

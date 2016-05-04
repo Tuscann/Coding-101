@@ -36,6 +36,5 @@ public class IlluminatiLock
                 Console.WriteLine("{0}##{1}#{2}#{1}##{0}", edge, side, middle);
             }
         }
-
     }
 }

@@ -3,7 +3,6 @@ class Program
 {
     static void Main()
     {
-
         int n = int.Parse(Console.ReadLine());
         Console.WriteLine("{0}{1}{0}", new string('.', n), new string('#', n));
         //Console.WriteLine("{0}###{0}###{0}", new string('.', n - 2));
@@ -28,4 +27,3 @@ class Program
         Console.WriteLine("{0}{1}{0}", new string('.', n), new string('#', n));
     }
 }
-

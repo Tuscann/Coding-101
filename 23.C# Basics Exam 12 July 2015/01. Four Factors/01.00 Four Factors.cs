@@ -3,7 +3,6 @@ class Program
 {
     static void Main()
     {
-
         decimal FG = decimal.Parse(Console.ReadLine());
         decimal FGA = decimal.Parse(Console.ReadLine());
         decimal P3 = decimal.Parse(Console.ReadLine());
@@ -21,4 +20,3 @@ class Program
         Console.WriteLine("eFG% {0:f3}\nTOV% {1:f3}\nORB% {2:f3}\nFT% {3:f3}", EFG, TOVV, ORBB, FTT);
     }
 }
-

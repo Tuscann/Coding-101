@@ -19,7 +19,7 @@ class Program
 
             input = Console.ReadLine();
         }
-         beerCount = beerCount - (beerCount / 100); 
+        beerCount = beerCount - (beerCount / 100);
         if (beerCount < reserveedBeer)
         {
             long needBeers = reserveedBeer - beerCount;
@@ -42,4 +42,3 @@ class Program
         }
     }
 }
-

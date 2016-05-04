@@ -21,8 +21,6 @@ class Program
         {
             double cakeCost = (double)trufflescost / cakesWanted * (double)1.25;
             Console.WriteLine("All products available, price of a cake: {0:f2}", cakeCost);
-
         }
     }
 }
-
