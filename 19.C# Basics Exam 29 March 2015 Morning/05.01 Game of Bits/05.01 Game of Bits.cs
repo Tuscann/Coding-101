@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Text;
 using System.Linq;
-
 class GameOfBits
 {
     static void Main()
@@ -51,11 +50,8 @@ class GameOfBits
             binary = temp.ToString();
             temp.Clear();
             //Console.WriteLine(binary);
-
         }
-
     }
-
     private static ulong BinaryToDecimal(string number)
     {
         ulong decNumber = 0;
@@ -65,7 +61,6 @@ class GameOfBits
             decNumber += (ulong)(int.Parse(number[i].ToString()) * Math.Pow(2, index));
             index++;
         }
-
         return decNumber;
     }
 

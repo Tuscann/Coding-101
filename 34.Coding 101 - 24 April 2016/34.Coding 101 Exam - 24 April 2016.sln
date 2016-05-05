@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Стоп", "05.00 С�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Специални числа", "06.00 Специални числа\06.00 Специални числа.csproj", "{F17466AF-42C2-4E3E-98D1-9EDD53DEEE12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.02 Умната Лили", "04.02 Умната Лили\04.02 Умната Лили.csproj", "{DCD07477-090A-49EB-BE4C-B31EBBAC25A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F17466AF-42C2-4E3E-98D1-9EDD53DEEE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F17466AF-42C2-4E3E-98D1-9EDD53DEEE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F17466AF-42C2-4E3E-98D1-9EDD53DEEE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD07477-090A-49EB-BE4C-B31EBBAC25A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD07477-090A-49EB-BE4C-B31EBBAC25A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD07477-090A-49EB-BE4C-B31EBBAC25A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD07477-090A-49EB-BE4C-B31EBBAC25A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

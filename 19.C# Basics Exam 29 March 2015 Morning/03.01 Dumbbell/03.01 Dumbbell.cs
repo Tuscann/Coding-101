@@ -30,4 +30,3 @@ class Dumbbell
         Console.WriteLine(emptyTop + dumbbellTop + emtpyMiddle + dumbbellTop + emptyTop);
     }
 }
-

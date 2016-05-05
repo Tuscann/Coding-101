@@ -1,12 +1,11 @@
 ﻿using System;
+using System.Linq;
 
-class Program
+class FourDigitNumber
 {
     static void Main()
     {
-        int n = int.Parse(Console.ReadLine());
-
-        
+        int number = int.Parse(Console.ReadLine()).ToString().Sum(c => c - '0');
+        Console.WriteLine(number);
     }
 }
-

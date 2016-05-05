@@ -1,10 +1,8 @@
 ﻿using System;
-
 class Program
 {
     static void Main()
     {
-
         double downloadData = double.Parse(Console.ReadLine());
         int cinemaPrice = int.Parse(Console.ReadLine());
         int wifeSpendingPerHour = int.Parse(Console.ReadLine());
@@ -25,7 +23,5 @@ class Program
         {
             Console.WriteLine("mall -> {0:f2}lv", pricePerDowload);
         }
-
     }
 }
-

@@ -84,8 +84,6 @@ class BasketBattle
             simeonFirst = !simeonFirst;
             nakovFirst = !nakovFirst;
         }
-
-
         if (winner == "Simeon")
         {
             Console.WriteLine("{0}\n{1}\n{2}",winner, winningRound, nakovPoints);

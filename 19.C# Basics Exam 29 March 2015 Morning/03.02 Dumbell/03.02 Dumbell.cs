@@ -18,4 +18,3 @@ class Program
         Console.WriteLine(" {0} {1} {0} ", new String('*', 2 * n - 2), new string(' ', n - 1));
     }
 }
-

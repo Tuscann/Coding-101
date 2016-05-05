@@ -10,7 +10,6 @@ class EncryptedMatrix
         {
             bigNumber += Convert.ToInt32(input[i]) % 10;
         }
-
         //Console.WriteLine(bigNumber);
         string newNumber = String.Empty;
         for (int i = 0; i < bigNumber.Length; i++)
@@ -63,7 +62,6 @@ class EncryptedMatrix
                     break;
                 }
         }
-
         for (int i = 0; i < length; i++)
         {
             for (int j = 0; j < length; j++)
@@ -72,6 +70,5 @@ class EncryptedMatrix
             }
             Console.WriteLine();
         }
-
     }
 }

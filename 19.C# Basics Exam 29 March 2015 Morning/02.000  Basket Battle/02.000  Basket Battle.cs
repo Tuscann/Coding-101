@@ -74,8 +74,6 @@ class Program
                 Console.WriteLine(secondPlayer);
                 Console.WriteLine(playerPoints[secondPlayer] - playerPoints[firstPlayer]);
             }
-
         }
-
     }
 }

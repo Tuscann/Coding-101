@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Security.Cryptography;
-
 class Program
 {
     static void Main()
@@ -35,14 +33,12 @@ class Program
         int currentSymbol = 0;
         for (int i = 0; i < message.Length; i++)
         {
-            
             if ((char)message[i] % mask == 0)
             {
                 currentSymbol = (char)message[i] + mask;
                 char symbol = (char)currentSymbol;
                 final += symbol;
             }
-            
             else
             {
                 currentSymbol = (char)message[i] - mask;
@@ -50,12 +46,8 @@ class Program
                 final += symbol;
             }
         }
-        
         char[] array = final.ToCharArray();
-        
         Array.Reverse(array);
-     
         Console.WriteLine(array);
     }
 }
-

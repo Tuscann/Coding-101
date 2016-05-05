@@ -17,21 +17,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Number in Range [1...100
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Greatest Common Divisor (CGD)", "07.Greatest Common Divisor (CGD)\07.Greatest Common Divisor (CGD).csproj", "{DF594294-7AFA-45FE-9655-CC99AE0BDEDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.00Factorial", "08.Factorial\08.00Factorial.csproj", "{9D3AAC50-0F3E-456F-B618-1E754AC10994}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.00 Factorial", "08.Factorial\08.00 Factorial.csproj", "{9D3AAC50-0F3E-456F-B618-1E754AC10994}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Sum Digits", "09.Sum Digits\09.Sum Digits.csproj", "{A8750953-5A54-4AF7-B457-474F03AB910D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.00 Sum Digits", "09.Sum Digits\09.00 Sum Digits.csproj", "{A8750953-5A54-4AF7-B457-474F03AB910D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Check Prime", "10.Check Prime\10.Check Prime.csproj", "{FD1A1D47-0556-4421-A927-76E3EC47E313}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.01.Factorial", "08.01.Factorial\08.01.Factorial.csproj", "{465EE22F-9509-4E12-9208-ACF0345E6921}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Enter Even Number", "11.Enter Even Number\11.Enter Even Number.csproj", "{107DE5ED-79B2-4EE9-A9E4-0D1C9B1C754D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.00 Enter Even Number", "11.Enter Even Number\11.00 Enter Even Number.csproj", "{107DE5ED-79B2-4EE9-A9E4-0D1C9B1C754D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Number Table", "ConsoleApplication1\14.Number Table.csproj", "{8739A5BE-CD6B-42ED-A374-D2824EADF57F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Fibonacci", "12.Fibonacci\12.Fibonacci.csproj", "{53B494EA-1B90-42C8-BBEC-9201A718AE42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Number Pyramid", "13.Number Pyramid\13.Number Pyramid.csproj", "{76E80B23-2BEE-4A5F-8E58-4195037FB754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.01 Sum Digits", "09.01 Sum Digits\09.01 Sum Digits.csproj", "{D146A1D1-1A4E-49C1-8254-536938E27244}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{76E80B23-2BEE-4A5F-8E58-4195037FB754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E80B23-2BEE-4A5F-8E58-4195037FB754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E80B23-2BEE-4A5F-8E58-4195037FB754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D146A1D1-1A4E-49C1-8254-536938E27244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D146A1D1-1A4E-49C1-8254-536938E27244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D146A1D1-1A4E-49C1-8254-536938E27244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D146A1D1-1A4E-49C1-8254-536938E27244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

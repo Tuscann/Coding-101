@@ -12,7 +12,6 @@ public class DetectiveBoev
         {
             mask += symbol;
         }
-
         while (mask > 9)
         {
             int sum = 0;
@@ -24,7 +23,6 @@ public class DetectiveBoev
             }
             mask = sum;
         }
-
         char[] decryptedMessage = new char[message.Length];
         for (int i = 0; i < message.Length; i++)
         {
@@ -37,9 +35,7 @@ public class DetectiveBoev
                 decryptedMessage[i] = (char)(message[i] - mask);
             }
         }
-
         Array.Reverse(decryptedMessage);
-
         Console.WriteLine(string.Join(string.Empty, decryptedMessage));
     }
 }

@@ -26,7 +26,6 @@ class WiggleWiggle
                     secondNumber[j] = swap;
                 }
             }
-
             long first = ConvertToDecimal(firstNumber);
             Console.WriteLine("{0} {1}", first, bits);
             bits.Clear();

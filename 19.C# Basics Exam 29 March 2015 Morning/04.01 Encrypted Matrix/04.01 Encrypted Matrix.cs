@@ -12,9 +12,7 @@ class EM
         foreach (char ch in array)
         {
             numbers.Add(ch % 10);
-
         }
-
         List<int> cryptedNumbers = new List<int>();
         for (int i = 0; i < numbers.Count; i++)
         {
@@ -79,7 +77,6 @@ class EM
                     Console.Write("0 ");
                 }
             }
-
             Console.WriteLine();
 
             position += update;

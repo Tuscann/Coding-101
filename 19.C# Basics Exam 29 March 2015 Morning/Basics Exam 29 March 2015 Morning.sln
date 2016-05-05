@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.01  Basket Battle", "02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.02  Basket Battle", "02.02  Basket Battle\02.02  Basket Battle.csproj", "{FD83C13D-FC57-4916-AF67-DCD265479413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Dumbbell", "03.01 Dumbbell\03.01 Dumbbell.csproj", "{1F3CCB3C-80CD-49AF-BA52-F7F5137A8EB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Dumbell", "03.01 Dumbbell\03.01 Dumbell.csproj", "{1F3CCB3C-80CD-49AF-BA52-F7F5137A8EB9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.01 Torrent Pirate", "01.01 Torrent Pirate\01.01 Torrent Pirate.csproj", "{4F27D062-E1A2-420A-B3DE-E84211255B6B}"
 EndProject

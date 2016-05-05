@@ -70,7 +70,6 @@ class BasketBattle
         if (SimeonScore == NakovScore)
         {
             Console.WriteLine("DRAW\n{0}",NakovScore);
-            
         }
         else
         {
@@ -85,21 +84,18 @@ class BasketBattle
             Console.WriteLine(Math.Abs(NakovScore - SimeonScore));
         }
     }
-
     private static void SimeonWins(int NakovScore, int i)
     {
         Console.WriteLine("Simeon");
         Console.WriteLine(i + 1);
         Console.WriteLine(NakovScore);
     }
-
     private static void NakovWins(int SimeonScore, int i)
     {
         Console.WriteLine("Nakov");
         Console.WriteLine(i + 1);
         Console.WriteLine(SimeonScore);
     }
-
     private static int Score(int Score, int P, string I)
     {
         if (I == "success")
