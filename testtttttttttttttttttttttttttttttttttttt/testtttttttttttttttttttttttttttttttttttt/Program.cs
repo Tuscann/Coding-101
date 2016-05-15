@@ -1,17 +1,42 @@
-﻿/*
- * C# Program to Calculate Size of File using LINQ
- */
-using System;
-using System.Linq;
-using System.IO;
-class Program
+﻿using System;
+using System.Collections.Generic;
+
+public class SortingArrays
 {
-    static void Main()
+    static string userInput;
+    static string val;
+    static string key;
+
+    static Dictionary<string, string> dict = new Dictionary<string, string>();
+    private static void Main()
     {
-        string[] dirfiles = Directory.GetFiles("C:\\NVIDIA");
-        var avg = dirfiles.Select(file => new FileInfo(file).Length).Average();
-        avg = Math.Round(avg / 10, 1);
-        Console.WriteLine("The Average file size is {0} MB", avg);
-        Console.ReadLine();
+        string rotate = Console.ReadLine();
+
+       string x = null;
+        while (rotate!="exam")
+        {
+            userInput = Console.ReadLine();
+            string[] wordbits = userInput.Split(' ');
+
+            for (int i = 0; i < wordbits.Length; i++)
+            {
+                key = wordbits[i];
+                for (int j = 0; j < wordbits.Length; j++)
+                {
+                    val = wordbits[(j + 1)];
+                }
+
+                dict.Add(key, val);
+            }
+
+
+            if (rotate=="Rotate(0)")
+            {
+                Console.WriteLine(userInput);
+            }
+           
+            
+        }
+
     }
 }

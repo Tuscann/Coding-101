@@ -18,7 +18,6 @@ class Program
             }
             switch (day)
             {
-
                 case 1:
                     sumW = sumW + 1;
                     sumM = sumM + 0;
@@ -64,6 +63,5 @@ class Program
         {
             Console.WriteLine("Equal amount: {0}", sumW);
         }
-
     }
 }

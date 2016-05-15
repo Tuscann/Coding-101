@@ -19,7 +19,6 @@ public class BitPaths
         Console.WriteLine(Convert.ToString(sum, 2));
         Console.WriteLine(sum.ToString("X"));
     }
-
     private static void ProcessPath(int[,] grid, string path)
     {
         string[] pathElements = path.Split(new char[] { ',' });
