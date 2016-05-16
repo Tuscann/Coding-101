@@ -7,21 +7,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Bit-Copy", "03.00 Bit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 BitSwap", "04.00 BitSwap\04.00 BitSwap.csproj", "{E8382B3B-68FD-4348-9E1D-E08D2DD206D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00  Bit Sequence Exchange", "05.00  Bit Sequence Exchange\05.00  Bit Sequence Exchange.csproj", "{5473F187-2BAD-46CA-8B35-A64C2ACF3085}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Bit Sequence Exchange", "05.00  Bit Sequence Exchange\05.00 Bit Sequence Exchange.csproj", "{5473F187-2BAD-46CA-8B35-A64C2ACF3085}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Largest Product of Digits", "06.00 Largest Product of Digits\06.00 Largest Product of Digits.csproj", "{20EFF572-4E41-461B-9952-F6566918D662}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.00  Console Graphics", "07.00  Console Graphics\07.00  Console Graphics.csproj", "{AAB43F06-CC11-4A49-8443-82D51E92C0B4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.00 Console Graphics", "07.00  Console Graphics\07.00 Console Graphics.csproj", "{AAB43F06-CC11-4A49-8443-82D51E92C0B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.00 Diamonds", "08.00 Diamonds\08.00 Diamonds.csproj", "{1BCACE53-4710-43FF-8443-F2336B451D1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.01  Console Graphics", "07.01  Console Graphics\07.01  Console Graphics.csproj", "{BB5FA379-C43A-4500-985B-87A69DAD1151}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.01 Console Graphics", "07.01  Console Graphics\07.01 Console Graphics.csproj", "{BB5FA379-C43A-4500-985B-87A69DAD1151}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.01 Diamonds", "08.01 Diamonds\08.01 Diamonds.csproj", "{2E514569-FD55-43AA-A598-F84E17DA305D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.02 Account Information", "01.02 Account Information\01.02 Account Information.csproj", "{F2BDC8A5-2ACB-4B50-B422-3FC2CA97376A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.02 Nums", "02.02 Nums\02.02 Nums.csproj", "{7774F95C-BD1A-4B98-BE3E-36CF347BF639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.01 Largest Product of Digits", "06.01 Largest Product of Digits\06.01 Largest Product of Digits.csproj", "{8B554947-B88B-4C61-80C5-0BC1531FAF03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{7774F95C-BD1A-4B98-BE3E-36CF347BF639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7774F95C-BD1A-4B98-BE3E-36CF347BF639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7774F95C-BD1A-4B98-BE3E-36CF347BF639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B554947-B88B-4C61-80C5-0BC1531FAF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B554947-B88B-4C61-80C5-0BC1531FAF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B554947-B88B-4C61-80C5-0BC1531FAF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B554947-B88B-4C61-80C5-0BC1531FAF03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

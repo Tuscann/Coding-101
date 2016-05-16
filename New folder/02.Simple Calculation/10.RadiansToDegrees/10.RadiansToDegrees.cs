@@ -1,12 +1,8 @@
 ﻿using System;
-
 class Program
 {
     static void Main()
     {
-        var radians = double.Parse(Console.ReadLine());
-        var gradus = radians * 180 / Math.PI;
-        Console.WriteLine("{0}", Math.Round(gradus));
+       Console.WriteLine("{0}", Math.Round(double.Parse(Console.ReadLine()) * 180 / Math.PI));
     }
 }
-
