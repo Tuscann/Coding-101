@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace _6
 {
     class Program
@@ -14,30 +15,33 @@ namespace _6
             int m = int.Parse(Console.ReadLine());
             int controlNumber = int.Parse(Console.ReadLine());
 
-            int sum = 0;
+            double sum = 0;
             int counter = 0;
 
-
-            for (int i = 1; i <= m; i++)
+            for (int i = 1; i <= n; i++)
             {
                 for (int y = m; y >= 1; y--)
                 {
                     counter++;
-                    Console.WriteLine(i + " " + y);
                     sum += i * 2 + y * 3;
-                    Console.WriteLine(sum);
 
-                    if (sum < controlNumber)
+                    //Console.Write(i+""+y+"|");
+
+                    if (sum >= controlNumber)
                     {
-
+                        break;
                     }
-
-                   
+                }
+                if (sum >= controlNumber)
+                {
+                    break;
                 }
             }
-
-            Console.WriteLine(sum);
+            Console.WriteLine("{0} moves", counter);
+            if (sum >= controlNumber)
+            {
+                Console.WriteLine("Score: {0} >= {1}", sum, controlNumber);
+            }
         }
-
     }
 }
