@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 - Дневна печалба", "01.00 - Дневна печалба\01.00 - Дневна печалба.csproj", "{57993F31-F066-4350-A4E1-5609702C59DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Фирма", "02.00 Фирма\02.00 Фирма.csproj", "{C5291259-E561-4136-B534-E8505F4ADBF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Хотелска стая", "03.00 Хотелска стая\03.00 Хотелска стая.csproj", "{31666DAC-E8D8-4FEC-83D4-5F06FAEC61DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Болница", "04.00 Болница\04.00 Болница.csproj", "{C538BAB0-637A-4191-8C01-6079D4BA0045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Брадва", "05.00 Брадва\05.00 Брадва.csproj", "{A491DEE6-BED9-4D46-ABE4-B34BE2D6C92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Цифри", "06.00 Цифри\06.00 Цифри.csproj", "{24919636-F3D2-414B-B916-7C1730744D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57993F31-F066-4350-A4E1-5609702C59DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57993F31-F066-4350-A4E1-5609702C59DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57993F31-F066-4350-A4E1-5609702C59DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57993F31-F066-4350-A4E1-5609702C59DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5291259-E561-4136-B534-E8505F4ADBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5291259-E561-4136-B534-E8505F4ADBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5291259-E561-4136-B534-E8505F4ADBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5291259-E561-4136-B534-E8505F4ADBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31666DAC-E8D8-4FEC-83D4-5F06FAEC61DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31666DAC-E8D8-4FEC-83D4-5F06FAEC61DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31666DAC-E8D8-4FEC-83D4-5F06FAEC61DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31666DAC-E8D8-4FEC-83D4-5F06FAEC61DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C538BAB0-637A-4191-8C01-6079D4BA0045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C538BAB0-637A-4191-8C01-6079D4BA0045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C538BAB0-637A-4191-8C01-6079D4BA0045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C538BAB0-637A-4191-8C01-6079D4BA0045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A491DEE6-BED9-4D46-ABE4-B34BE2D6C92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A491DEE6-BED9-4D46-ABE4-B34BE2D6C92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A491DEE6-BED9-4D46-ABE4-B34BE2D6C92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A491DEE6-BED9-4D46-ABE4-B34BE2D6C92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24919636-F3D2-414B-B916-7C1730744D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24919636-F3D2-414B-B916-7C1730744D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24919636-F3D2-414B-B916-7C1730744D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24919636-F3D2-414B-B916-7C1730744D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
