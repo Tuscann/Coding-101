@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1", "1\1.csproj", "{A8683FF9-EBA9-49EB-AD89-52F7A6576CB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Благотворителна кампания", "1\01.00 Благотворителна кампания.csproj", "{A8683FF9-EBA9-49EB-AD89-52F7A6576CB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2", "2\2.csproj", "{C7CC3EA2-033B-43DC-B414-D613C6AB7294}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Световен рекорд по плуване", "2\02.00 Световен рекорд по плуване.csproj", "{C7CC3EA2-033B-43DC-B414-D613C6AB7294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3", "3\3.csproj", "{6BFDA487-9C33-4930-9323-2B8EACE2C434}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Плодови коктейли", "3\03.00 Плодови коктейли.csproj", "{6BFDA487-9C33-4930-9323-2B8EACE2C434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4", "4\4.csproj", "{4D540623-81BD-4ACB-9F99-8F60426C6820}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Парична награда", "4\04.00 Парична награда.csproj", "{4D540623-81BD-4ACB-9F99-8F60426C6820}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5", "5\5.csproj", "{66D0D18C-96A3-42EC-99A0-B9A8B0655B3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Триъгълник", "5\05.00 Триъгълник.csproj", "{66D0D18C-96A3-42EC-99A0-B9A8B0655B3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6", "6\6.csproj", "{6B2EBB24-B1AE-4621-AFD6-9E0C7A68F87A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Сбор или Произведение", "6\06.00 Сбор или Произведение.csproj", "{6B2EBB24-B1AE-4621-AFD6-9E0C7A68F87A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Триъгълник", "05.01\05.01 Триъгълник.csproj", "{E23763B2-E96B-49E7-B34F-86BD3F6D3DCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6B2EBB24-B1AE-4621-AFD6-9E0C7A68F87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B2EBB24-B1AE-4621-AFD6-9E0C7A68F87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B2EBB24-B1AE-4621-AFD6-9E0C7A68F87A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E23763B2-E96B-49E7-B34F-86BD3F6D3DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23763B2-E96B-49E7-B34F-86BD3F6D3DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23763B2-E96B-49E7-B34F-86BD3F6D3DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23763B2-E96B-49E7-B34F-86BD3F6D3DCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

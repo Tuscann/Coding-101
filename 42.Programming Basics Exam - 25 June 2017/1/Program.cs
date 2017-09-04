@@ -1,7 +1,7 @@
 ﻿using System;
 class Program
 {
-    static void Main()
+    static void Main() // 100/100
     {
         decimal days = decimal.Parse(Console.ReadLine());
         decimal sladkari = decimal.Parse(Console.ReadLine());
@@ -14,4 +14,3 @@ class Program
         Console.WriteLine("{0:f2}", sum);
     }
 }
-

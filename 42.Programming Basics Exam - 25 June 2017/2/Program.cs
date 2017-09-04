@@ -1,7 +1,7 @@
 ﻿using System;
 class Program
 {
-    static void Main()
+    static void Main() // 100/100
     {
         decimal seconds = decimal.Parse(Console.ReadLine());
         decimal distance_meters = decimal.Parse(Console.ReadLine());

@@ -1,11 +1,10 @@
 ﻿using System;
 class Program
 {
-    static void Main()
+    static void Main() // 100/100
     {
         int n = int.Parse(Console.ReadLine());
-        int height = (2 * n) + 1;
-        int weight = (4 * n) + 1;
+        int weight = 4 * n + 1;
 
         Console.WriteLine("{0}", new string('#', weight));
 
