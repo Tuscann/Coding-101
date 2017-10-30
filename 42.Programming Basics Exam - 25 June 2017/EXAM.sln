@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Благотворителна кампания", "1\01.00 Благотворителна кампания.csproj", "{A8683FF9-EBA9-49EB-AD89-52F7A6576CB0}"
 EndProject
@@ -16,6 +16,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Сбор или Произведение", "6\06.00 Сбор или Произведение.csproj", "{6B2EBB24-B1AE-4621-AFD6-9E0C7A68F87A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Триъгълник", "05.01\05.01 Триъгълник.csproj", "{E23763B2-E96B-49E7-B34F-86BD3F6D3DCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.02 Триъгълник", "05.02 Триъгълник\05.02 Триъгълник.csproj", "{1C4629E8-457A-4BCB-A669-AE12C9D60B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.03 Триъгълник", "05.03 Триъгълник\05.03 Триъгълник.csproj", "{BB86593A-47B7-4A2D-A3FF-35DB9EDBE599}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{E23763B2-E96B-49E7-B34F-86BD3F6D3DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E23763B2-E96B-49E7-B34F-86BD3F6D3DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E23763B2-E96B-49E7-B34F-86BD3F6D3DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4629E8-457A-4BCB-A669-AE12C9D60B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4629E8-457A-4BCB-A669-AE12C9D60B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4629E8-457A-4BCB-A669-AE12C9D60B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4629E8-457A-4BCB-A669-AE12C9D60B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB86593A-47B7-4A2D-A3FF-35DB9EDBE599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB86593A-47B7-4A2D-A3FF-35DB9EDBE599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB86593A-47B7-4A2D-A3FF-35DB9EDBE599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB86593A-47B7-4A2D-A3FF-35DB9EDBE599}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
