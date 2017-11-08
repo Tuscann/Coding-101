@@ -1,20 +1,20 @@
 ﻿using System;
 class Program
 {
-    static void Main()
+    static void Main()   // 100/100
     {
-        var studioPrice = new decimal[] { 50, 75.20m, 76 };
-        var apartmentPrice = new decimal[] { 65, 68.70m, 77 };
+        decimal[] studioPrice =  { 50, 75.20m, 76 };
+        decimal[] apartmentPrice = { 65, 68.70m, 77 };
 
-        var month = Console.ReadLine();
-        var nights = int.Parse(Console.ReadLine());
+        string month = Console.ReadLine();
+        int nights = int.Parse(Console.ReadLine());
         int index = month == "June" || month == "September" ? 1 :
             (month == "July" || month == "August" ? 2 : 0);
         // Index 0 : May && October
         // Index 1 : June && September
         // Index 2 : July && August
-        var studioDiscount = 1m;
-        var apartmentDiscount = 1m;
+        decimal studioDiscount = 1m;
+        decimal apartmentDiscount = 1m;
         if (nights > 14)
         {
             apartmentDiscount = 0.90m;

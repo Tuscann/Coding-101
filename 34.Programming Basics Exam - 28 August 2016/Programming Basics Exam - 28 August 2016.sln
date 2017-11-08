@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 - Дневна печалба", "01.00 - Дневна печалба\01.00 - Дневна печалба.csproj", "{57993F31-F066-4350-A4E1-5609702C59DE}"
 EndProject
@@ -14,6 +14,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Брадва", "05.00 Брадва\05.00 Брадва.csproj", "{A491DEE6-BED9-4D46-ABE4-B34BE2D6C92D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Цифри", "06.00 Цифри\06.00 Цифри.csproj", "{24919636-F3D2-414B-B916-7C1730744D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Брадва", "05.01 Брадва\05.01 Брадва.csproj", "{50FD6FA6-3003-43F5-99DC-DA4A23EE56F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.02 Брадва", "05.02 Брадва\05.02 Брадва.csproj", "{D56718EE-969A-4321-AD0E-D69BA135D889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.03 Брадва", "05.03 Брадва\05.03 Брадва.csproj", "{BE963E6E-57AE-4918-9399-E90132CC88E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,8 +51,23 @@ Global
 		{24919636-F3D2-414B-B916-7C1730744D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24919636-F3D2-414B-B916-7C1730744D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24919636-F3D2-414B-B916-7C1730744D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FD6FA6-3003-43F5-99DC-DA4A23EE56F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FD6FA6-3003-43F5-99DC-DA4A23EE56F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FD6FA6-3003-43F5-99DC-DA4A23EE56F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FD6FA6-3003-43F5-99DC-DA4A23EE56F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56718EE-969A-4321-AD0E-D69BA135D889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56718EE-969A-4321-AD0E-D69BA135D889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56718EE-969A-4321-AD0E-D69BA135D889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56718EE-969A-4321-AD0E-D69BA135D889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE963E6E-57AE-4918-9399-E90132CC88E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE963E6E-57AE-4918-9399-E90132CC88E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE963E6E-57AE-4918-9399-E90132CC88E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE963E6E-57AE-4918-9399-E90132CC88E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {892D5CEA-8481-447D-A04B-924C97C48C07}
 	EndGlobalSection
 EndGlobal
