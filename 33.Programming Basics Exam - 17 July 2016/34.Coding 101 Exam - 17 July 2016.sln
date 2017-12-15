@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Money", "01.00 Money\01.00 Money.csproj", "{787375D2-5461-4AF8-B6E1-6E085F4FE368}"
 EndProject
@@ -14,6 +14,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Diamond", "05.00 Diamond\05.00 Diamond.csproj", "{6B0E056E-A911-4E73-B20C-2D27DA6B0072}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Stop Number", "06.00 Stop Number\06.00 Stop Number.csproj", "{213506B1-2A23-4A0E-BB9E-A1BF682F241E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.01 Back To The Past", "04.01 Back To The Past\04.01 Back To The Past.csproj", "{EC4587D5-A9CE-4E3C-87E0-815B727FDC39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.02 Back To The Past", "04.02 Back To The Past\04.02 Back To The Past.csproj", "{FC70EC9F-00E2-40AF-828A-374A53380E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.03 Back To The Past", "04.03 Back To The Past\04.03 Back To The Past.csproj", "{5D4CF529-6A21-458C-8167-ABAB031A1867}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{213506B1-2A23-4A0E-BB9E-A1BF682F241E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{213506B1-2A23-4A0E-BB9E-A1BF682F241E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{213506B1-2A23-4A0E-BB9E-A1BF682F241E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4587D5-A9CE-4E3C-87E0-815B727FDC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4587D5-A9CE-4E3C-87E0-815B727FDC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4587D5-A9CE-4E3C-87E0-815B727FDC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4587D5-A9CE-4E3C-87E0-815B727FDC39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC70EC9F-00E2-40AF-828A-374A53380E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC70EC9F-00E2-40AF-828A-374A53380E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC70EC9F-00E2-40AF-828A-374A53380E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC70EC9F-00E2-40AF-828A-374A53380E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D4CF529-6A21-458C-8167-ABAB031A1867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4CF529-6A21-458C-8167-ABAB031A1867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4CF529-6A21-458C-8167-ABAB031A1867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4CF529-6A21-458C-8167-ABAB031A1867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
