@@ -1,19 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2", "2\2.csproj", "{25B8DB6C-5B5D-438D-A74D-0044CB2DA3AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 Toy Shop", "2\02.00 Toy Shop.csproj", "{25B8DB6C-5B5D-438D-A74D-0044CB2DA3AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3", "3\3.csproj", "{DF75E72D-4FA5-4F5F-A83B-A46DEECC3387}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 School Camp", "3\03.00 School Camp.csproj", "{DF75E72D-4FA5-4F5F-A83B-A46DEECC3387}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4", "4\4.csproj", "{963B367A-8A8B-47B8-800D-57FD4F5F76D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Football League", "4\04.00 Football League.csproj", "{963B367A-8A8B-47B8-800D-57FD4F5F76D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5", "5\5.csproj", "{C7286898-0968-4443-8576-D897DCBF1C0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Crown", "5\05.00 Crown.csproj", "{C7286898-0968-4443-8576-D897DCBF1C0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6", "6\6.csproj", "{7E8E3302-E613-425A-9B61-3BC96BAF2975}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Number Generator", "6\06.00 Number Generator.csproj", "{7E8E3302-E613-425A-9B61-3BC96BAF2975}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1", "1\1.csproj", "{73AD39A0-9E42-4428-863A-567D4B5F7B0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00  Alcohol Market", "1\01.00  Alcohol Market.csproj", "{73AD39A0-9E42-4428-863A-567D4B5F7B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{156C3D09-5977-4C75-911F-8A9B6AF2FA58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{73AD39A0-9E42-4428-863A-567D4B5F7B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73AD39A0-9E42-4428-863A-567D4B5F7B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73AD39A0-9E42-4428-863A-567D4B5F7B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156C3D09-5977-4C75-911F-8A9B6AF2FA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156C3D09-5977-4C75-911F-8A9B6AF2FA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156C3D09-5977-4C75-911F-8A9B6AF2FA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156C3D09-5977-4C75-911F-8A9B6AF2FA58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

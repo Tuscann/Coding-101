@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.00 Ivanovi's Family", "01.00 Ivanovi's Family\01.00 Ivanovi's Family.csproj", "{F457F758-C64F-4A4E-B932-CDD946BD49D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.00 New Years Eve Party", "02.00 New Years Eve Party\02.00 New Years Eve Party.csproj", "{B50409D5-1D59-4293-987E-F128122B1863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Ivanovi's Holiday", "03.00 Ivanovi's Holiday\03.00 Ivanovi's Holiday.csproj", "{F08E0231-FF3F-4EAE-A2BF-7367DA225EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Workout", "04.00 Workout\04.00 Workout.csproj", "{535FED5F-1D18-4F9A-B438-902FA9B35F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.00 Christmas Sock", "05.00 Christmas Sock\05.00 Christmas Sock.csproj", "{E25BBA9F-FA64-44F8-8405-3E6A9909DE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Multiply Table", "06.00 Multiply Table\06.00 Multiply Table.csproj", "{3113E780-460F-4A89-8B11-8CF9072A1FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.01 Christmas Sock", "05.01 Christmas Sock\05.01 Christmas Sock.csproj", "{1C4C9473-F4D5-4856-B658-BD01B8CFADC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F457F758-C64F-4A4E-B932-CDD946BD49D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F457F758-C64F-4A4E-B932-CDD946BD49D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F457F758-C64F-4A4E-B932-CDD946BD49D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F457F758-C64F-4A4E-B932-CDD946BD49D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50409D5-1D59-4293-987E-F128122B1863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50409D5-1D59-4293-987E-F128122B1863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50409D5-1D59-4293-987E-F128122B1863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50409D5-1D59-4293-987E-F128122B1863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F08E0231-FF3F-4EAE-A2BF-7367DA225EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08E0231-FF3F-4EAE-A2BF-7367DA225EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08E0231-FF3F-4EAE-A2BF-7367DA225EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08E0231-FF3F-4EAE-A2BF-7367DA225EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535FED5F-1D18-4F9A-B438-902FA9B35F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535FED5F-1D18-4F9A-B438-902FA9B35F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535FED5F-1D18-4F9A-B438-902FA9B35F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535FED5F-1D18-4F9A-B438-902FA9B35F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25BBA9F-FA64-44F8-8405-3E6A9909DE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25BBA9F-FA64-44F8-8405-3E6A9909DE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25BBA9F-FA64-44F8-8405-3E6A9909DE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25BBA9F-FA64-44F8-8405-3E6A9909DE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3113E780-460F-4A89-8B11-8CF9072A1FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3113E780-460F-4A89-8B11-8CF9072A1FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3113E780-460F-4A89-8B11-8CF9072A1FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3113E780-460F-4A89-8B11-8CF9072A1FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4C9473-F4D5-4856-B658-BD01B8CFADC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4C9473-F4D5-4856-B658-BD01B8CFADC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4C9473-F4D5-4856-B658-BD01B8CFADC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4C9473-F4D5-4856-B658-BD01B8CFADC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
