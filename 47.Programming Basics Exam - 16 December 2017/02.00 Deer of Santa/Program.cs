@@ -11,6 +11,7 @@ class Program
         double deerFoodKilograms3 = double.Parse(Console.ReadLine());
 
         double total = missingDays * (deerFoodKilograms1 + deerFoodKilograms2 + deerFoodKilograms3);
+
         if (total < foodKilograams)
         {
             Console.WriteLine("{0} kilos of food left.", Math.Floor( foodKilograams- total));
