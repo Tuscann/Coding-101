@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.00 Triangle", "03.00 Tri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Rate", "04.00 Rate\04.00 Rate.csproj", "{A023A706-3D14-40BE-92AC-11960B795D47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.00 Salary", "04.00 Salary\04.00 Salary.csproj", "{3B1B4280-A900-446A-9108-D793CA8A1AB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A023A706-3D14-40BE-92AC-11960B795D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A023A706-3D14-40BE-92AC-11960B795D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A023A706-3D14-40BE-92AC-11960B795D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1B4280-A900-446A-9108-D793CA8A1AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1B4280-A900-446A-9108-D793CA8A1AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1B4280-A900-446A-9108-D793CA8A1AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1B4280-A900-446A-9108-D793CA8A1AB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

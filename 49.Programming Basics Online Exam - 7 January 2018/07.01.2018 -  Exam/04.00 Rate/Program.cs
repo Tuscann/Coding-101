@@ -7,12 +7,10 @@ class Program
         int monthCount = int.Parse(Console.ReadLine());
 
         decimal totalll = sum;
-        decimal last = sum;
 
         for (int i = 1; i <= monthCount; i++)
         {
-            totalll = (1.00m + 0.027m) * last;
-            last = (1.00m + 0.027m) * last;
+            totalll = (1.00m + 0.027m) * totalll;
         }
         Console.WriteLine("Simple interest rate: {0:f2} lv. ", (1.00m + monthCount * 0.03m) * sum);
         Console.WriteLine("Complex interest rate: {0:f2} lv.", totalll);
