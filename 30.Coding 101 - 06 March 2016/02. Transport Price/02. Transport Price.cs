@@ -7,7 +7,7 @@ class Program
         int miles = int.Parse(Console.ReadLine());
         string time = Console.ReadLine();
 
-        var total = 0.0;
+        double total;
 
         if (miles < 20 && miles >= 1)
         {

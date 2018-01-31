@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.02 Back To The Past", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.03 Back To The Past", "04.03 Back To The Past\04.03 Back To The Past.csproj", "{5D4CF529-6A21-458C-8167-ABAB031A1867}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Match Tickets", "03.01 Match Tickets\03.01 Match Tickets.csproj", "{3CFDF102-48D0-4DD2-9FB1-4B5774DC0106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.02 Match Tickets", "03.02 Match Tickets\03.02 Match Tickets.csproj", "{EEA521BF-FE23-4A91-A88B-6C2FECFD0DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{5D4CF529-6A21-458C-8167-ABAB031A1867}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D4CF529-6A21-458C-8167-ABAB031A1867}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D4CF529-6A21-458C-8167-ABAB031A1867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFDF102-48D0-4DD2-9FB1-4B5774DC0106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFDF102-48D0-4DD2-9FB1-4B5774DC0106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFDF102-48D0-4DD2-9FB1-4B5774DC0106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFDF102-48D0-4DD2-9FB1-4B5774DC0106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA521BF-FE23-4A91-A88B-6C2FECFD0DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA521BF-FE23-4A91-A88B-6C2FECFD0DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA521BF-FE23-4A91-A88B-6C2FECFD0DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA521BF-FE23-4A91-A88B-6C2FECFD0DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

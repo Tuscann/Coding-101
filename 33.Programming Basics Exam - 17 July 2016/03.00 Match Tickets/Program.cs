@@ -10,13 +10,14 @@ class Program
         decimal moneyy = 0;
         decimal koef = 0;
 
-        if (type == "normal")
+        switch (type)
         {
-            moneyy = 249.99M;
-        }
-        else if (type == "vip")
-        {
-            moneyy = 499.99M;
+            case "normal":
+                moneyy = 249.99M;
+                break;
+            case "vip":
+                moneyy = 499.99M;
+                break;
         }
         if (n >= 1 && n <= 4)
         {
@@ -36,9 +37,9 @@ class Program
         }
         else if (n >= 50)
         {
-            koef = (decimal) 0.25;
+            koef = 0.25m;
         }
-        decimal dasdas = budjet - (koef * budjet);
+        decimal dasdas = budjet - koef * budjet;
         if (moneyy * n <= dasdas)
         {
             Console.WriteLine("Yes! You have {0:f2} leva left.", dasdas - moneyy * n);
