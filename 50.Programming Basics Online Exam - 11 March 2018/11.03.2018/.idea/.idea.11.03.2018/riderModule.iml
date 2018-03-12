@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../01.00 Hearthstone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../01.00 PC Store" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../01.00 Travel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../02.00 Illidan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../02.00 Picture in the Wall" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../02.00 Shopping" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../ConsoleApplication" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../01.00 Hearthstone/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../01.00 Hearthstone/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../01.00 PC Store/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../01.00 PC Store/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../01.00 Travel/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../01.00 Travel/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.00 Illidan/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.00 Illidan/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.00 Picture in the Wall/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.00 Picture in the Wall/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.00 Shopping/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../02.00 Shopping/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleApplication/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../ConsoleApplication/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
