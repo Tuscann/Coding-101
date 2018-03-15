@@ -8,7 +8,7 @@ class Program
         double y = double.Parse(Console.ReadLine());
 
         double sum = v + y * 3.6;
-        Console.WriteLine("The truck arrived after " + Math.Ceiling(x / v) + " hours");
-        Console.WriteLine("The car arrived after " + Math.Ceiling(x / sum) + " hours");
+        Console.WriteLine("The truck arrived after {0} hours", Math.Ceiling(x / v));
+        Console.WriteLine("The car arrived after {0} hours", Math.Ceiling(x / sum));
     }
 }

@@ -3,21 +3,21 @@ class Program
 {
     static void Main()
     {
-        int shirina = int.Parse(Console.ReadLine());
+        int holeW = int.Parse(Console.ReadLine());
         int daljina = int.Parse(Console.ReadLine());
-        int strana = int.Parse(Console.ReadLine());
-        int countPaintings = int.Parse(Console.ReadLine());
+        int pictureSide = int.Parse(Console.ReadLine());
+        int numberPictures = int.Parse(Console.ReadLine());
+        
+        int holeSize = holeW  * daljina;
+        int allPicturesSize = pictureSide  * pictureSide  * numberPictures ;
 
-        long sum = shirina * daljina;
-        long tt = strana * strana * countPaintings;
-
-        if (sum > tt)
+        if (holeSize  > allPicturesSize )
         {
-            Console.WriteLine("The pictures fit in the hole. Hole area is {0} bigger than pictures area.", sum - tt);
+            Console.WriteLine("The pictures fit in the hole. Hole area is {0} bigger than pictures area.", holeSize  - allPicturesSize );
         }
         else
         {
-            Console.WriteLine("The pictures don't fit in the hole. Picture area is {0} bigger than hole area.", tt - sum);
+            Console.WriteLine("The pictures don't fit in the hole. Picture area is {0} bigger than hole area.", allPicturesSize  - holeSize );
         }
     }
 }
