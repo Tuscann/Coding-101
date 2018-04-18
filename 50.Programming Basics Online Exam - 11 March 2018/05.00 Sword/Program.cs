@@ -7,16 +7,11 @@ class Program
 
         Console.WriteLine("{0}/^\\{0}", new string('#', (2 * n - 2) / 2));
 
-        int b = n - 2;
-        int c = 3;
-        for (int i = 0; i < n / 2; i++)
+        for (int i = 1; i <= n / 2; i++)
         {
-            Console.WriteLine("{0}.{1}.{0}", new string('#', b), new string(' ', c));
-            b--;
-            c += 2;
+            Console.WriteLine("{0}.{1}.{0}", new string('#', n - i - 1), new string(' ', 2 * i + 1));
         }
-
-        int d = (c - 3) / 2;
+        int d = 2 * (n / 2) / 2;
 
         Console.WriteLine("{0}|{1}S{1}|{0}", new string('#', (n - 1) / 2), new string(' ', d));
         Console.WriteLine("{0}|{1}O{1}|{0}", new string('#', (n - 1) / 2), new string(' ', d));
@@ -27,11 +22,8 @@ class Program
         {
             Console.WriteLine("{0}|{1}|{0}", new string('#', (n - 1) / 2), new string(' ', d * 2 + 1));
         }
-        //if (n == 4)
-        //{
-        //    Console.WriteLine("{0}|{1}|{0}", new string('#', (n - 1) / 2), new string(' ', d * 2 + 1));
-        //}
-
+        //if (n == 4) Console.WriteLine("{0}|{1}|{0}", new string('#', (n - 1) / 2), new string(' ', d * 2 + 1));
+        
         Console.WriteLine("{0}|{1}U{1}|{0}", new string('#', (n - 1) / 2), new string(' ', d));
         Console.WriteLine("{0}|{1}N{1}|{0}", new string('#', (n - 1) / 2), new string(' ', d));
         Console.WriteLine("{0}|{1}I{1}|{0}", new string('#', (n - 1) / 2), new string(' ', d));

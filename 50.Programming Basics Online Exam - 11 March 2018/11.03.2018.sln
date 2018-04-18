@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Special Combinations"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.00 Prime Pairs", "06.00 Prime Pairs\06.00 Prime Pairs.csproj", "{50502A69-991D-4159-8E13-3033B51C3EED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.01 Arena Tournament", "03.01 Arena Tournament\03.01 Arena Tournament.csproj", "{D738DDAB-C408-4604-8AE3-3C35A56F41D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{50502A69-991D-4159-8E13-3033B51C3EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50502A69-991D-4159-8E13-3033B51C3EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50502A69-991D-4159-8E13-3033B51C3EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D738DDAB-C408-4604-8AE3-3C35A56F41D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D738DDAB-C408-4604-8AE3-3C35A56F41D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D738DDAB-C408-4604-8AE3-3C35A56F41D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D738DDAB-C408-4604-8AE3-3C35A56F41D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
