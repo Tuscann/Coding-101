@@ -14,17 +14,17 @@ class Program
             if (predvaritelno == "onsite")
             {
                 onsite += predvaritelnoBefore;
-
-                if (onsite > 600)
-                {
-                    online += onsite-600;
-                    onsite = 600;
-                }
             }
             else if (predvaritelno == "online")
             {
                 online += predvaritelnoBefore;
             }
+        }
+
+        if (onsite > 600)
+        {
+            online += onsite - 600;
+            onsite = 600;
         }
         Console.WriteLine("Online students: {0}", online);
         Console.WriteLine("Onsite students: {0}", onsite);
