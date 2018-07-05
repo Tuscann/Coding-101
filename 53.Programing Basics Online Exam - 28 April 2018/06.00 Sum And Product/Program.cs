@@ -4,6 +4,7 @@ class Program
     static void Main()
     {
         int n = int.Parse(Console.ReadLine());
+
         for (int a = 1; a <= 9; a++)
         {
             for (int b = 9; b >= a; b--)
