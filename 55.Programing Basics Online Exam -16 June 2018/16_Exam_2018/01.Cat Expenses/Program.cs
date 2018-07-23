@@ -1,15 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Cat_Expenses
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        double bedPrice = double.Parse(Console.ReadLine());
+        double catPrice = double.Parse(Console.ReadLine());
+
+        double commandExpensis =
+            catPrice + catPrice * 1.25 + catPrice * 1.25 * 0.50 + catPrice * 1.25 * 0.50 * 1.1;
+       
+
+        double sum = bedPrice + 12 * commandExpensis + 12 * 0.05 * commandExpensis;
+        Console.WriteLine("{0:f2} lv.", sum);
     }
 }
