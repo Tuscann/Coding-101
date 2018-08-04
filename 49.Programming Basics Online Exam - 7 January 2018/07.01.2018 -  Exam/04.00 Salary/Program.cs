@@ -8,7 +8,7 @@ class Program
         string sindeikalen = Console.ReadLine();
         double totall = salary;
 
-        for (int i = 1; i < 1000; i++)
+        for (int i = 1; i < 46; i++)
         {
             totall = totall * 1.06;
             if (i % 5 == 0)
