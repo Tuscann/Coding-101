@@ -7,8 +7,9 @@ public class _01_Series_Calculator {
         String serial = scanner.nextLine();
         int seasons = Integer.parseInt(scanner.nextLine());
         int countEpisode = Integer.parseInt(scanner.nextLine());
-        double epizocdeWithoutАdvertising = Double.parseDouble(scanner.nextLine());
-        double time = epizocdeWithoutАdvertising * 1.2 * countEpisode * seasons + (seasons * 10);
+        double episodeTimeWithAdvertisement  = Double.parseDouble(scanner.nextLine());
+
+        double time = episodeTimeWithAdvertisement  * 1.2 * countEpisode * seasons + (seasons * 10);
 
         System.out.printf("Total time needed to watch the %s series is %d minutes.", serial, (int)Math.floor(time));
     }

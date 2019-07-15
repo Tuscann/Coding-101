@@ -17,14 +17,15 @@ public class _04_Cinema {
             if (countSeats - incomeFee < 0) {
                 System.out.println("The cinema is full.");
                 break;
-            }
-            countSeats -= incomeFee;
-            int summm = incomeFee * 5;
+            } else {
+                countSeats -= incomeFee;
+                int summm = incomeFee * 5;
 
-            if (incomeFee % 3 == 0) {
-                summm -= 5;
+                if (incomeFee % 3 == 0) {
+                    summm -= 5;
+                }
+                sum += summm;
             }
-            sum += summm;
         }
         System.out.printf("Cinema income - %d lv.", sum);
     }

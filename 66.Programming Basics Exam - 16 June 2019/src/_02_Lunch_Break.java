@@ -8,12 +8,12 @@ public class _02_Lunch_Break {
         double episode = Integer.parseInt(scanner.nextLine());
         int rest = Integer.parseInt(scanner.nextLine());
 
-        double sum = rest * (1 - 0.125 - 0.250);
+        double timeLeft = rest * (1 - rest/8 - rest/4);
 
-        if (episode - sum <= 0) {
-            System.out.printf("You have enough time to watch %s and left with %d minutes free time.", name, (int) Math.ceil(episode - sum));
+        if (episode <= timeLeft) {
+            System.out.printf("You have enough time to watch %s and left with %.0f minutes free time.", name, Math.ceil(timeLeft - episode));
         } else {
-            System.out.printf("You don't have enough time to watch %s, you need %d more minutes.", name, (int) Math.ceil(episode - sum));
+            System.out.printf("You don't have enough time to watch %s, you need %.0f more minutes.", name, Math.ceil(episode - timeLeft));
         }
     }
 }

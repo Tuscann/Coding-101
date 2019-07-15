@@ -15,7 +15,7 @@ public class _03_Movie_Destination {
             if (season.equals("Summer")) {
                 price = 40000;
             } else if (season.equals("Winter")) {
-                price = 45000;
+                price = 45_000;
             }
         } else if (destination.equals("Sofia")) {
             if (season.equals("Summer")) {

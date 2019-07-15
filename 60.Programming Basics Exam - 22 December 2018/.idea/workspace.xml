@@ -1,187 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e2e8517-336e-4219-9974-b5a92b95819c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/01.00 Shopping Time/01.00 Shopping Time.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/01.00 Shopping Time/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/01.00 Shopping Time/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/01.00 Shopping Time/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/02.00 Going Home/02.00 Going Home.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/02.00 Going Home/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/02.00 Going Home/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/02.00 Going Home/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/03.00 Computer Room/03.00 Computer Room.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/03.00 Computer Room/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/03.00 Computer Room/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/03.00 Computer Room/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/03.01 Computer Room/03.01 Computer Room.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/03.01 Computer Room/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/03.01 Computer Room/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/03.01 Computer Room/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/04.00 Own Bussiness/04.00 Own Bussiness.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/04.00 Own Bussiness/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/04.00 Own Bussiness/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/04.00 Own Bussiness/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/05.00 Computer Firm/05.00 Computer Firm.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/05.00 Computer Firm/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/05.00 Computer Firm/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/05.00 Computer Firm/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/06.00 Unique PIN Codes/06.00 Unique PIN Codes.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/06.00 Unique PIN Codes/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/06.00 Unique PIN Codes/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/06.00 Unique PIN Codes/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.Programing Basics Online Exam - 28 July 2018/Programming Basics Online - 11 and 12 August 2/Programming Basics Online - 11 and 12 August 2.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/01.00 Shopping Time/01.00 Shopping Time.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/01.00 Shopping Time/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/01.00 Shopping Time/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/01.00 Shopping Time/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/02.00 Going Home/02.00 Going Home.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/02.00 Going Home/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/02.00 Going Home/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/02.00 Going Home/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/03.00 Computer Room/03.00 Computer Room.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/03.00 Computer Room/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/03.00 Computer Room/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/03.00 Computer Room/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/03.01 Computer Room/03.01 Computer Room.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/03.01 Computer Room/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/03.01 Computer Room/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/03.01 Computer Room/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/04.00 Own Bussiness/04.00 Own Bussiness.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/04.00 Own Bussiness/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/04.00 Own Bussiness/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/04.00 Own Bussiness/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/05.00 Computer Firm/05.00 Computer Firm.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/05.00 Computer Firm/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/05.00 Computer Firm/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/05.00 Computer Firm/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/06.00 Unique PIN Codes/06.00 Unique PIN Codes.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/06.00 Unique PIN Codes/App.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/06.00 Unique PIN Codes/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/06.00 Unique PIN Codes/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57.Programming Basics Online Exam - 11 August 2018/Programming Basics Online - 11 and 12 August 2/Programming Basics Online - 11 and 12 August 2.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/1. Wedding Hall.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/1. Wedding Time.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/2. Maiden Party.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/2. Wedding Party.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/3. Honeymoon.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/3. Wedding Investment.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/4. Bachelor Party.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/4. Wedding Decoration.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/5. Family House.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/5. Wedding Presents.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/58.Programming Basic Exam - 03 November 2018.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/6. Challenge the wedding.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/6. Wedding Seats.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_01_Wedding_Hall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_01_Wedding_Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_02_Maiden_Party.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_02_Wedding_Party.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_03_Honeymoon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_03_Wedding_Investment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_04_Bachelor_Party.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_04_Wedding_Decoration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_05_Family_House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_05_Wedding_Presents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_06_Challenge_the_Wedding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/out/production/58.Programming Basic Exam - 03 November 2018/_06_Wedding_Seats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_01_Wedding_Hall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_01_Wedding_Time.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_02_Maiden_Party.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_02_Wedding_Party.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_03_Honeymoon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_03_Wedding_Investment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_04_Bachelor_Party.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_04_Wedding_Decoration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_05_Family_House.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_05_Wedding_Presents.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_06_Challenge_the_Wedding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../58.Programming Basic Exam - 03 November 2018/src/_06_Wedding_Seats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/01. School Supplies.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/01. Trekking Equipment.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/02. Mountain Run.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/02. School Trip.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/03. Energy Booster.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/03. Ski Trip.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/04. Everest.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/04. Puppy Care.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/05. Project Prize.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/05. Trekking Mania.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/06. Math Puzzle.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/06. Safe Passwords Generator .pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/59.Programming Basic Exam - 01 December 2018.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_01_School_Supplies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_01_Trekking_equipment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_02_Mountain_Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_02_School_Trip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_03_Energy_Booster.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_03_Ski_Trip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_04_Everest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_04_Puppy_Care.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_05_Project_Prize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_05_Trekking_Mania.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_06_Math_Puzzle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/out/production/59.Programming Basic Exam - 01 December 2018/_06_Safe_Passwords_Generator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_01_School_Supplies.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_01_Trekking_equipment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_02_Mountain_Run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_02_School_Trip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_03_Energy_Booster.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_03_Ski_Trip.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_04_Everest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_04_Puppy_Care.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_05_Project_Prize.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_05_Trekking_Mania.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_06_Math_Puzzle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../59.Programming Basic Exam - 01 December 2018/src/_06_Safe_Passwords_Generator.java" beforeDir="false" />
-    </list>
+    <list default="true" id="2e2e8517-336e-4219-9974-b5a92b95819c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1013290433">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="1161" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="1161" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -207,12 +33,6 @@
         <option value="$PROJECT_DIR$/src/_03_Pastry_Shop.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="44" />
@@ -243,11 +63,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545748814158" />
@@ -335,11 +156,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545731514835</updated>
       <workItem from="1545731516082" duration="5063000" />
+      <workItem from="1563008276678" duration="166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5063000" />
+    <option name="totallyTimeSpent" value="5229000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="40" width="1928" height="1164" extended-state="6" />
@@ -349,8 +171,9 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24813631" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25079873" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -363,6 +186,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -406,9 +230,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
