@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.20 November 2016 - Morning.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Hao\Documents\Coding-101\35.Programming Basics Exam - 20 November 2016 - Morning\.idea\.idea.20 November 2016 - Morning\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

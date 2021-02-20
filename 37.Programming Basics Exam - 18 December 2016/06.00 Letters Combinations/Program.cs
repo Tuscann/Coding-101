@@ -33,8 +33,7 @@ class Program
                         Console.Write(i + "" + "" + j + "" + k + " ");
                         count++;
                     }
-                }
-
+                }   
             }
         }
         Console.Write(count);

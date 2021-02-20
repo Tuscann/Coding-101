@@ -8,7 +8,7 @@ public class _02_Lunch_Break {
         double episode = Integer.parseInt(scanner.nextLine());
         int rest = Integer.parseInt(scanner.nextLine());
 
-        double timeLeft = rest * (1 - rest/8 - rest/4);
+        double timeLeft = rest * (1 - rest/8.0 - rest/4.0);
 
         if (episode <= timeLeft) {
             System.out.printf("You have enough time to watch %s and left with %.0f minutes free time.", name, Math.ceil(timeLeft - episode));

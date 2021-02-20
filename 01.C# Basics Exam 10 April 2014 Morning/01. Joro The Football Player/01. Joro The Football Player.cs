@@ -1,4 +1,5 @@
 ﻿using System;
+
 class Program
 {
     static void Main()
@@ -7,12 +8,13 @@ class Program
         decimal a = decimal.Parse(Console.ReadLine());
         decimal b = decimal.Parse(Console.ReadLine());
 
-        decimal total = (((decimal)52 - b) * ((decimal)2 / (decimal)3)) + a / (decimal)2 + b;
+        decimal total = (52 - b) * (2 / (decimal) 3) + a / 2 + b;
 
         if (input == "t")
         {
-            total = 3 + total;
+            total += 3;
         }
+
         Console.WriteLine("{0:f0}", Math.Floor(total));
     }
 }
